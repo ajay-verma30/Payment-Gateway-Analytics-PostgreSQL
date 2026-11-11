@@ -1,0 +1,25 @@
+decline_code,category,description,network_response_code,retryable
+insufficient_funds,soft,The card has insufficient funds to complete the purchase.,51,True
+do_not_honor,issuer,The card was declined by the issuer without a specific reason.,05,True
+generic_decline,issuer,The card was declined for an unspecified reason.,05,True
+authentication_required,soft,The card requires 3D Secure authentication.,65,True
+incorrect_cvc,soft,The CVC provided is incorrect.,N7,True
+expired_card,hard,The card has expired.,54,False
+try_again_later,technical,The issuer could not be reached; try again later.,91,True
+issuer_not_available,technical,The issuer is temporarily unavailable.,91,True
+processing_error,technical,An error occurred while processing the card.,96,True
+card_velocity_exceeded,soft,The customer has exceeded the card transaction limit.,61,True
+withdrawal_count_limit_exceeded,soft,The customer has exceeded the allowed number of transactions.,65,True
+incorrect_number,hard,The card number is incorrect.,14,False
+call_issuer,issuer,The customer must contact their card issuer.,01,False
+restricted_card,hard,The card cannot be used for this transaction.,62,False
+transaction_not_allowed,hard,The card does not support this type of purchase.,58,False
+card_not_supported,hard,The card does not support this type of purchase.,57,False
+lost_card,fraud,The card was reported lost.,41,False
+stolen_card,fraud,The card was reported stolen.,43,False
+pickup_card,fraud,The card cannot be used; the issuer asked to retain it.,07,False
+fraudulent,fraud,The payment was declined by the issuer as suspected fraud.,59,False
+highest_risk_level,fraud,The payment was blocked by the risk engine.,,False
+invalid_amount,hard,The payment amount is invalid.,13,False
+invalid_expiry_year,hard,The expiration year is invalid.,54,False
+currency_not_supported,hard,The card does not support the payment currency.,57,False

@@ -1,0 +1,2001 @@
+bin,brand,funding,card_category,issuer_name,issuer_country
+527857,mastercard,debit,consumer,AIB,IE
+547234,mastercard,debit,consumer,OCBC,SG
+438471,visa,credit,consumer,Intesa Sanpaolo,IT
+472355,visa,credit,consumer,DKB,DE
+436652,visa,debit,consumer,HDFC Bank,IN
+401239,visa,debit,consumer,Commerzbank,DE
+518798,mastercard,debit,consumer,ICICI Bank,IN
+558109,mastercard,prepaid,consumer,Bank of America,US
+375459,amex,credit,consumer,Bank of America,US
+467965,visa,credit,consumer,Citibank,US
+521665,mastercard,debit,consumer,Citibank,US
+414564,visa,debit,consumer,ING,NL
+422477,visa,debit,consumer,Macquarie,AU
+441789,visa,debit,commercial,Santander,ES
+538506,mastercard,debit,consumer,Revolut,IE
+550285,mastercard,debit,consumer,Deutsche Bank,DE
+658561,rupay,debit,consumer,Kotak Mahindra Bank,IN
+451555,visa,credit,consumer,Credit Agricole,FR
+557782,mastercard,credit,consumer,Commerzbank,DE
+483354,visa,credit,consumer,Bank of America,US
+340196,amex,credit,consumer,Bank of America,US
+425025,visa,debit,consumer,OCBC,SG
+545713,mastercard,credit,consumer,N26,IE
+456537,visa,debit,consumer,Santander UK,GB
+480542,visa,debit,consumer,Revolut,IE
+433800,visa,credit,consumer,Bank of America,US
+422071,visa,credit,consumer,Lloyds Bank,GB
+520754,mastercard,debit,commercial,Discover Bank,US
+433810,visa,credit,consumer,Capital One,US
+463666,visa,credit,consumer,Rabobank,NL
+494614,visa,credit,commercial,Kotak Mahindra Bank,IN
+513759,mastercard,debit,consumer,Mediolanum,IT
+341555,amex,debit,consumer,Bank of America,US
+498370,visa,credit,consumer,SNS Bank,NL
+516517,mastercard,debit,consumer,AIB,IE
+549495,mastercard,credit,consumer,SNS Bank,NL
+518717,mastercard,credit,commercial,AIB,IE
+404212,visa,debit,commercial,Emirates NBD,AE
+512728,mastercard,credit,consumer,Lloyds Bank,GB
+489754,visa,credit,consumer,Credit Agricole,FR
+445741,visa,debit,consumer,Societe Generale,FR
+430916,visa,debit,consumer,Wells Fargo,US
+374219,amex,credit,consumer,Citibank,US
+372025,amex,debit,commercial,JPMorgan Chase,US
+401181,visa,debit,consumer,Wells Fargo,US
+418011,visa,debit,consumer,JPMorgan Chase,US
+468541,visa,debit,consumer,Bank of America,US
+511061,mastercard,debit,commercial,Revolut,IE
+405063,visa,debit,consumer,HDFC Bank,IN
+428748,visa,credit,commercial,Macquarie,AU
+496605,visa,debit,consumer,Citibank,US
+347436,amex,debit,consumer,BNP Paribas,FR
+453161,visa,debit,consumer,State Bank of India,IN
+490950,visa,debit,consumer,Barclays,GB
+522238,mastercard,credit,commercial,ICICI Bank,IN
+414617,visa,debit,consumer,ING,NL
+546377,mastercard,credit,commercial,Citibank,US
+527139,mastercard,credit,consumer,OCBC,SG
+450203,visa,debit,consumer,Discover Bank,US
+515288,mastercard,debit,consumer,N26,DE
+406693,visa,debit,consumer,Citibank,US
+429575,visa,debit,consumer,Bank of Ireland,IE
+495386,visa,debit,consumer,Santander UK,GB
+512767,mastercard,credit,consumer,Capital One,US
+454701,visa,debit,consumer,State Bank of India,IN
+499054,visa,debit,consumer,Axis Bank,IN
+486330,visa,debit,consumer,State Bank of India,IN
+537336,mastercard,debit,consumer,Mashreq,AE
+436315,visa,credit,consumer,Wells Fargo,US
+401556,visa,debit,consumer,HDFC Bank,IN
+444499,visa,debit,consumer,Mashreq,AE
+400648,visa,debit,consumer,Kotak Mahindra Bank,IN
+511401,mastercard,credit,consumer,US Bancorp,US
+469362,visa,credit,consumer,Credit Agricole,FR
+433295,visa,debit,consumer,Citibank SG,SG
+472084,visa,debit,consumer,BNP Paribas,FR
+528101,mastercard,debit,consumer,Monzo,GB
+402658,visa,debit,consumer,Emirates NBD,AE
+816174,rupay,debit,consumer,HDFC Bank,IN
+440981,visa,debit,consumer,Mashreq,AE
+348579,amex,debit,commercial,Macquarie,AU
+347389,amex,debit,consumer,Standard Chartered SG,SG
+601194,discover,debit,consumer,Capital One,US
+600648,rupay,debit,consumer,HDFC Bank,IN
+470981,visa,credit,consumer,ING,NL
+458466,visa,credit,consumer,HSBC UK,GB
+526531,mastercard,debit,consumer,Monzo,GB
+454409,visa,debit,consumer,UOB,SG
+532453,mastercard,debit,consumer,Permanent TSB,IE
+370834,amex,credit,consumer,Discover Bank,US
+601165,discover,credit,consumer,Wells Fargo,US
+607347,rupay,credit,consumer,ICICI Bank,IN
+415845,visa,credit,consumer,State Bank of India,IN
+558936,mastercard,debit,consumer,Axis Bank,IN
+538203,mastercard,credit,consumer,Macquarie,AU
+432682,visa,debit,consumer,Credit Agricole,FR
+526476,mastercard,credit,consumer,Commerzbank,DE
+499324,visa,debit,consumer,JPMorgan Chase,US
+436074,visa,debit,consumer,bunq,NL
+551321,mastercard,credit,consumer,Commonwealth Bank,AU
+469124,visa,credit,consumer,BMO,CA
+454495,visa,credit,consumer,N26,DE
+418661,visa,debit,consumer,Westpac,AU
+520902,mastercard,credit,consumer,Barclays,GB
+494543,visa,debit,commercial,Barclays,GB
+515838,mastercard,debit,consumer,CIBC,CA
+468888,visa,credit,consumer,Bank of America,US
+516371,mastercard,debit,consumer,Citibank,US
+426977,visa,debit,consumer,Wells Fargo,US
+492173,visa,credit,consumer,Monzo,GB
+522876,mastercard,credit,consumer,ING Germany,DE
+479655,visa,credit,consumer,ING,NL
+532436,mastercard,debit,consumer,US Bancorp,US
+609789,rupay,credit,consumer,ICICI Bank,IN
+432663,visa,prepaid,consumer,CIBC,CA
+374241,amex,debit,consumer,Citibank,US
+525589,mastercard,debit,consumer,Standard Chartered SG,SG
+815857,rupay,debit,consumer,Yes Bank,IN
+421046,visa,credit,consumer,DKB,DE
+409243,visa,debit,consumer,Deutsche Bank,DE
+413200,visa,prepaid,consumer,ANZ,AU
+437705,visa,prepaid,consumer,Axis Bank,IN
+405972,visa,debit,consumer,CIBC,CA
+542089,mastercard,debit,consumer,Deutsche Bank,DE
+528320,mastercard,debit,consumer,ING Germany,DE
+448615,visa,debit,consumer,Revolut,GB
+511595,mastercard,debit,consumer,Axis Bank,IN
+546782,mastercard,debit,consumer,Santander UK,GB
+524261,mastercard,credit,consumer,Wells Fargo,US
+601138,discover,credit,consumer,Capital One,US
+477250,visa,debit,commercial,N26,IE
+487644,visa,debit,consumer,Revolut,GB
+498240,visa,debit,consumer,Axis Bank,IN
+403187,visa,debit,consumer,Kotak Mahindra Bank,IN
+483047,visa,debit,consumer,State Bank of India,IN
+457134,visa,prepaid,consumer,IDFC First Bank,IN
+423220,visa,credit,consumer,Revolut,IE
+605532,rupay,credit,consumer,Kotak Mahindra Bank,IN
+466527,visa,credit,consumer,Scotiabank,CA
+600360,rupay,credit,consumer,Kotak Mahindra Bank,IN
+420000,visa,credit,consumer,IDFC First Bank,IN
+495966,visa,credit,consumer,TD Bank,CA
+457957,visa,credit,consumer,Citibank,US
+348892,amex,debit,consumer,US Bancorp,US
+488803,visa,debit,consumer,ADCB,AE
+450134,visa,credit,consumer,Standard Chartered SG,SG
+401845,visa,credit,consumer,Societe Generale,FR
+428835,visa,credit,consumer,Kotak Mahindra Bank,IN
+448834,visa,credit,consumer,DKB,DE
+435592,visa,credit,consumer,Mashreq,AE
+498441,visa,debit,consumer,UOB,SG
+466883,visa,debit,consumer,HDFC Bank,IN
+374856,amex,credit,consumer,US Bancorp,US
+430134,visa,debit,consumer,Citibank,US
+400568,visa,credit,consumer,Yes Bank,IN
+556910,mastercard,debit,consumer,Rabobank,NL
+471330,visa,credit,consumer,Discover Bank,US
+400574,visa,credit,consumer,Bank of America,US
+405944,visa,credit,consumer,State Bank of India,IN
+548290,mastercard,debit,consumer,Santander UK,GB
+558608,mastercard,debit,consumer,Axis Bank,IN
+480584,visa,debit,commercial,JPMorgan Chase,US
+530523,mastercard,debit,consumer,ICICI Bank,IN
+432056,visa,credit,consumer,Emirates NBD,AE
+652833,rupay,credit,consumer,HDFC Bank,IN
+541557,mastercard,credit,consumer,Barclays,GB
+453624,visa,debit,consumer,HDFC Bank,IN
+820964,rupay,debit,consumer,Yes Bank,IN
+411175,visa,debit,consumer,Yes Bank,IN
+460936,visa,debit,commercial,State Bank of India,IN
+443570,visa,debit,consumer,Yes Bank,IN
+545612,mastercard,debit,commercial,HSBC UK,GB
+442639,visa,debit,consumer,bunq,NL
+371326,amex,credit,consumer,Kotak Mahindra Bank,IN
+423939,visa,debit,consumer,Santander UK,GB
+470372,visa,debit,consumer,N26,DE
+428930,visa,debit,consumer,Wells Fargo,US
+456046,visa,credit,consumer,Wells Fargo,US
+541312,mastercard,debit,consumer,IDFC First Bank,IN
+409190,visa,credit,consumer,Wells Fargo,US
+527984,mastercard,credit,consumer,Monzo,GB
+544390,mastercard,credit,consumer,First Abu Dhabi Bank,AE
+415086,visa,credit,commercial,Mashreq,AE
+438304,visa,credit,consumer,First Abu Dhabi Bank,AE
+376347,amex,prepaid,consumer,Capital One,US
+818893,rupay,credit,consumer,HDFC Bank,IN
+521754,mastercard,credit,consumer,Wells Fargo,US
+435913,visa,debit,commercial,Capital One,US
+602666,rupay,debit,consumer,HDFC Bank,IN
+558227,mastercard,debit,consumer,Axis Bank,IN
+537787,mastercard,debit,consumer,Revolut,GB
+377931,amex,credit,consumer,Citibank,US
+549513,mastercard,debit,commercial,State Bank of India,IN
+434360,visa,debit,consumer,Credit Agricole,FR
+458577,visa,credit,consumer,Capital One,US
+348078,amex,debit,consumer,NAB,AU
+540952,mastercard,prepaid,consumer,Discover Bank,US
+528000,mastercard,debit,consumer,ING Germany,DE
+412577,visa,credit,consumer,IDFC First Bank,IN
+475737,visa,credit,commercial,NatWest,GB
+537488,mastercard,credit,consumer,ICICI Bank,IN
+519950,mastercard,debit,consumer,Yes Bank,IN
+345050,amex,debit,consumer,Permanent TSB,IE
+601199,discover,debit,consumer,Wells Fargo,US
+512669,mastercard,debit,consumer,IDFC First Bank,IN
+441515,visa,debit,consumer,Standard Chartered SG,SG
+609160,rupay,credit,consumer,ICICI Bank,IN
+499133,visa,credit,consumer,Commerzbank,DE
+432539,visa,prepaid,consumer,Sparkasse,DE
+481953,visa,credit,consumer,Citibank,US
+410331,visa,debit,consumer,Monzo,GB
+607067,rupay,debit,consumer,ICICI Bank,IN
+434824,visa,credit,consumer,La Banque Postale,FR
+601128,discover,credit,consumer,Discover Bank,US
+521722,mastercard,credit,consumer,IDFC First Bank,IN
+435847,visa,credit,consumer,JPMorgan Chase,US
+420270,visa,debit,consumer,CIBC,CA
+527230,mastercard,debit,consumer,Mediolanum,IT
+459955,visa,debit,consumer,DBS,SG
+535346,mastercard,credit,consumer,Rabobank,NL
+462958,visa,debit,consumer,SNS Bank,NL
+498843,visa,debit,consumer,NatWest,GB
+460346,visa,debit,consumer,Scotiabank,CA
+526437,mastercard,debit,consumer,Lloyds Bank,GB
+341337,amex,credit,consumer,Citibank,US
+540985,mastercard,credit,consumer,AIB,IE
+544111,mastercard,credit,consumer,Sparkasse,DE
+530904,mastercard,credit,consumer,Kotak Mahindra Bank,IN
+511525,mastercard,debit,consumer,Bank of America,US
+463189,visa,debit,commercial,Capital One,US
+433633,visa,debit,consumer,Commonwealth Bank,AU
+443156,visa,debit,consumer,Wells Fargo,US
+523739,mastercard,debit,consumer,ANZ,AU
+550333,mastercard,credit,consumer,NatWest,GB
+556500,mastercard,debit,consumer,BBVA,ES
+549696,mastercard,credit,consumer,IDFC First Bank,IN
+519211,mastercard,credit,consumer,UOB,SG
+415671,visa,debit,consumer,HSBC UK,GB
+439302,visa,prepaid,consumer,Capital One,US
+529356,mastercard,credit,consumer,Citibank,US
+554768,mastercard,debit,consumer,Capital One,US
+378796,amex,debit,consumer,Wells Fargo,US
+536560,mastercard,credit,consumer,Credit Agricole,FR
+557848,mastercard,debit,consumer,OCBC,SG
+519336,mastercard,debit,commercial,bunq,NL
+523082,mastercard,credit,consumer,Commerzbank,DE
+475647,visa,credit,consumer,Barclays,GB
+401919,visa,debit,consumer,Macquarie,AU
+511322,mastercard,debit,consumer,NAB,AU
+516600,mastercard,prepaid,commercial,Citibank,US
+461894,visa,credit,consumer,Dubai Islamic Bank,AE
+447113,visa,credit,consumer,Wells Fargo,US
+423351,visa,credit,consumer,Commonwealth Bank,AU
+492070,visa,debit,consumer,Dubai Islamic Bank,AE
+551934,mastercard,debit,consumer,Boursorama,FR
+444326,visa,credit,consumer,IDFC First Bank,IN
+550169,mastercard,debit,consumer,Sparkasse,DE
+653375,rupay,debit,consumer,Yes Bank,IN
+440061,visa,debit,commercial,Poste Italiane,IT
+458721,visa,debit,consumer,Citibank,US
+467838,visa,credit,consumer,ING,NL
+404999,visa,credit,consumer,DBS,SG
+552561,mastercard,credit,consumer,IDFC First Bank,IN
+495363,visa,debit,commercial,Bank of America,US
+404571,visa,credit,consumer,Permanent TSB,IE
+421227,visa,debit,consumer,Discover Bank,US
+556917,mastercard,debit,consumer,State Bank of India,IN
+422580,visa,debit,commercial,Yes Bank,IN
+538727,mastercard,debit,consumer,Bank of America,US
+534218,mastercard,credit,consumer,Bank of Ireland,IE
+401264,visa,debit,consumer,Sparkasse,DE
+343599,amex,debit,consumer,Kotak Mahindra Bank,IN
+548044,mastercard,debit,consumer,NatWest,GB
+433878,visa,credit,consumer,US Bancorp,US
+417633,visa,credit,consumer,Citibank,US
+442416,visa,debit,commercial,Credit Agricole,FR
+538136,mastercard,credit,consumer,Bank of America,US
+455930,visa,credit,consumer,Deutsche Bank,DE
+513198,mastercard,debit,consumer,Citibank SG,SG
+440442,visa,debit,consumer,Sparkasse,DE
+490517,visa,credit,consumer,AIB,IE
+474110,visa,debit,commercial,Axis Bank,IN
+820867,rupay,debit,consumer,Yes Bank,IN
+530557,mastercard,debit,consumer,State Bank of India,IN
+443968,visa,credit,consumer,Santander,ES
+533066,mastercard,debit,consumer,NAB,AU
+819360,rupay,credit,consumer,Axis Bank,IN
+522112,mastercard,debit,consumer,Kotak Mahindra Bank,IN
+476170,visa,debit,consumer,Capital One,US
+406538,visa,credit,consumer,Commerzbank,DE
+342629,amex,debit,consumer,N26,IE
+432160,visa,debit,consumer,ABN AMRO,NL
+466689,visa,debit,consumer,Scotiabank,CA
+348902,amex,credit,consumer,JPMorgan Chase,US
+449066,visa,credit,commercial,ABN AMRO,NL
+556023,mastercard,credit,consumer,ING Germany,DE
+377083,amex,debit,consumer,Capital One,US
+484593,visa,credit,consumer,BMO,CA
+550369,mastercard,debit,consumer,HDFC Bank,IN
+556257,mastercard,credit,consumer,Societe Generale,FR
+370545,amex,prepaid,consumer,BNP Paribas,FR
+553378,mastercard,debit,consumer,DBS,SG
+542488,mastercard,debit,consumer,NatWest,GB
+545337,mastercard,credit,consumer,Capital One,US
+411959,visa,debit,consumer,Westpac,AU
+489865,visa,credit,consumer,Poste Italiane,IT
+405543,visa,credit,consumer,Monzo,GB
+497602,visa,credit,consumer,BBVA,ES
+436882,visa,credit,consumer,Discover Bank,US
+402797,visa,credit,consumer,Sparkasse,DE
+459669,visa,prepaid,consumer,BMO,CA
+534665,mastercard,debit,commercial,Bank of America,US
+513405,mastercard,debit,consumer,NatWest,GB
+553966,mastercard,prepaid,consumer,Mashreq,AE
+487436,visa,credit,consumer,Banco BPM,IT
+435492,visa,debit,consumer,TD Bank,CA
+452125,visa,credit,consumer,JPMorgan Chase,US
+530475,mastercard,credit,consumer,ADCB,AE
+440437,visa,credit,consumer,ICICI Bank,IN
+420528,visa,debit,consumer,NatWest,GB
+442053,visa,credit,consumer,Revolut,GB
+439631,visa,debit,consumer,Mediolanum,IT
+440853,visa,debit,consumer,RBC,CA
+445574,visa,debit,consumer,Boursorama,FR
+550586,mastercard,debit,consumer,Permanent TSB,IE
+371958,amex,debit,consumer,JPMorgan Chase,US
+492345,visa,debit,consumer,Monzo,GB
+494620,visa,debit,consumer,Barclays,GB
+344020,amex,credit,consumer,Kotak Mahindra Bank,IN
+554248,mastercard,debit,consumer,NatWest,GB
+544592,mastercard,debit,consumer,Macquarie,AU
+556592,mastercard,credit,consumer,BNP Paribas,FR
+458617,visa,debit,consumer,Mediolanum,IT
+489168,visa,debit,consumer,Capital One,US
+445763,visa,credit,commercial,Revolut,GB
+406762,visa,debit,consumer,Axis Bank,IN
+523964,mastercard,credit,consumer,Capital One,US
+455962,visa,debit,consumer,NatWest,GB
+341946,amex,debit,consumer,Citibank,US
+542227,mastercard,debit,consumer,State Bank of India,IN
+527045,mastercard,debit,consumer,ING,NL
+524207,mastercard,debit,consumer,Capital One,US
+550277,mastercard,debit,consumer,Citibank,US
+347680,amex,credit,consumer,Discover Bank,US
+533091,mastercard,debit,consumer,DKB,DE
+469280,visa,debit,consumer,Discover Bank,US
+510959,mastercard,credit,consumer,NatWest,GB
+400063,visa,credit,consumer,Sparkasse,DE
+600549,rupay,credit,consumer,Kotak Mahindra Bank,IN
+414510,visa,credit,commercial,CIBC,CA
+437936,visa,credit,commercial,State Bank of India,IN
+510513,mastercard,credit,commercial,HSBC UK,GB
+519979,mastercard,credit,consumer,Axis Bank,IN
+515663,mastercard,debit,consumer,Revolut,GB
+372174,amex,debit,consumer,Bank of America,US
+467071,visa,debit,consumer,RBC,CA
+430206,visa,debit,consumer,US Bancorp,US
+525512,mastercard,debit,commercial,AIB,IE
+449666,visa,credit,consumer,JPMorgan Chase,US
+603342,rupay,credit,consumer,State Bank of India,IN
+492687,visa,debit,consumer,Bank of America,US
+488030,visa,credit,consumer,Commerzbank,DE
+412768,visa,debit,consumer,NatWest,GB
+556318,mastercard,debit,commercial,First Abu Dhabi Bank,AE
+558969,mastercard,debit,consumer,Societe Generale,FR
+552038,mastercard,credit,consumer,Emirates NBD,AE
+431269,visa,debit,consumer,JPMorgan Chase,US
+488707,visa,debit,consumer,UniCredit,IT
+553957,mastercard,debit,consumer,Deutsche Bank,DE
+435717,visa,debit,consumer,Permanent TSB,IE
+462914,visa,debit,consumer,ADCB,AE
+443985,visa,credit,consumer,bunq,NL
+524078,mastercard,debit,consumer,RBC,CA
+445104,visa,credit,consumer,La Banque Postale,FR
+656729,rupay,debit,consumer,Axis Bank,IN
+469977,visa,credit,commercial,ING,NL
+538758,mastercard,debit,consumer,HSBC UK,GB
+424931,visa,credit,consumer,UOB,SG
+440415,visa,prepaid,consumer,Westpac,AU
+347082,amex,debit,commercial,Kotak Mahindra Bank,IN
+493065,visa,debit,consumer,Axis Bank,IN
+825421,rupay,debit,consumer,Yes Bank,IN
+404008,visa,prepaid,consumer,Monzo,GB
+537171,mastercard,credit,consumer,HDFC Bank,IN
+547298,mastercard,debit,consumer,Credit Agricole,FR
+469917,visa,debit,consumer,DKB,DE
+552337,mastercard,debit,consumer,Macquarie,AU
+539903,mastercard,debit,consumer,US Bancorp,US
+549699,mastercard,debit,consumer,HSBC UK,GB
+483500,visa,debit,consumer,State Bank of India,IN
+433263,visa,debit,consumer,BMO,CA
+451880,visa,debit,consumer,ICICI Bank,IN
+532639,mastercard,credit,consumer,Kotak Mahindra Bank,IN
+426355,visa,debit,consumer,State Bank of India,IN
+427659,visa,credit,consumer,Commonwealth Bank,AU
+342515,amex,credit,consumer,IDFC First Bank,IN
+557523,mastercard,debit,consumer,N26,IE
+475319,visa,debit,consumer,Sabadell,ES
+531698,mastercard,credit,consumer,Sabadell,ES
+827672,rupay,debit,consumer,IDFC First Bank,IN
+428275,visa,prepaid,consumer,IDFC First Bank,IN
+438629,visa,debit,consumer,Barclays,GB
+552200,mastercard,debit,consumer,ICICI Bank,IN
+459397,visa,credit,consumer,ING,NL
+498611,visa,debit,commercial,Wells Fargo,US
+466936,visa,debit,consumer,Barclays,GB
+605673,rupay,debit,consumer,HDFC Bank,IN
+370931,amex,debit,consumer,DKB,DE
+515311,mastercard,debit,consumer,Kotak Mahindra Bank,IN
+555762,mastercard,debit,consumer,ING,NL
+457849,visa,debit,consumer,Kotak Mahindra Bank,IN
+556783,mastercard,debit,consumer,First Abu Dhabi Bank,AE
+348263,amex,credit,consumer,SNS Bank,NL
+815405,rupay,debit,consumer,HDFC Bank,IN
+451439,visa,debit,consumer,Yes Bank,IN
+521470,mastercard,credit,consumer,US Bancorp,US
+539013,mastercard,debit,consumer,ICICI Bank,IN
+437781,visa,debit,consumer,State Bank of India,IN
+468823,visa,prepaid,consumer,RBC,CA
+433908,visa,debit,consumer,Revolut,IE
+449079,visa,debit,consumer,Yes Bank,IN
+526874,mastercard,debit,consumer,Deutsche Bank,DE
+461226,visa,credit,consumer,Citibank,US
+414125,visa,credit,consumer,Dubai Islamic Bank,AE
+653671,rupay,debit,consumer,HDFC Bank,IN
+517871,mastercard,credit,consumer,Boursorama,FR
+544801,mastercard,debit,consumer,Poste Italiane,IT
+553589,mastercard,debit,consumer,State Bank of India,IN
+473445,visa,debit,consumer,IDFC First Bank,IN
+532718,mastercard,credit,consumer,Citibank,US
+442183,visa,debit,consumer,TD Bank,CA
+345455,amex,debit,consumer,Deutsche Bank,DE
+444005,visa,credit,consumer,bunq,NL
+374561,amex,credit,consumer,Banco BPM,IT
+552127,mastercard,credit,consumer,NAB,AU
+543662,mastercard,debit,consumer,Lloyds Bank,GB
+371300,amex,credit,consumer,Barclays,GB
+551335,mastercard,credit,consumer,Societe Generale,FR
+601121,discover,credit,consumer,JPMorgan Chase,US
+557672,mastercard,credit,consumer,ANZ,AU
+817630,rupay,debit,consumer,State Bank of India,IN
+604662,rupay,debit,consumer,HDFC Bank,IN
+371295,amex,debit,consumer,Commonwealth Bank,AU
+601156,discover,credit,consumer,JPMorgan Chase,US
+553826,mastercard,credit,consumer,HDFC Bank,IN
+527334,mastercard,debit,consumer,Yes Bank,IN
+443257,visa,debit,consumer,Deutsche Bank,DE
+528158,mastercard,debit,consumer,Westpac,AU
+827027,rupay,credit,consumer,State Bank of India,IN
+600886,rupay,debit,consumer,HDFC Bank,IN
+513090,mastercard,debit,consumer,Monzo,GB
+513225,mastercard,credit,consumer,First Abu Dhabi Bank,AE
+372575,amex,debit,commercial,Capital One,US
+522195,mastercard,credit,consumer,Mashreq,AE
+464431,visa,credit,consumer,RBC,CA
+557256,mastercard,credit,consumer,Discover Bank,US
+516281,mastercard,credit,commercial,NAB,AU
+415023,visa,debit,commercial,SNS Bank,NL
+439597,visa,credit,consumer,Lloyds Bank,GB
+545727,mastercard,credit,consumer,Citibank,US
+549883,mastercard,debit,consumer,Macquarie,AU
+484368,visa,debit,consumer,Mediolanum,IT
+547998,mastercard,credit,consumer,CaixaBank,ES
+496226,visa,debit,consumer,Mashreq,AE
+453058,visa,debit,consumer,NatWest,GB
+419605,visa,debit,consumer,Westpac,AU
+483796,visa,debit,consumer,BMO,CA
+537022,mastercard,debit,commercial,Axis Bank,IN
+540762,mastercard,debit,consumer,ICICI Bank,IN
+518061,mastercard,credit,consumer,US Bancorp,US
+538709,mastercard,debit,consumer,Commonwealth Bank,AU
+518083,mastercard,debit,commercial,Bank of America,US
+533530,mastercard,debit,consumer,Societe Generale,FR
+517305,mastercard,debit,consumer,HDFC Bank,IN
+601132,discover,debit,consumer,Citibank,US
+534063,mastercard,debit,commercial,Bank of Ireland,IE
+343321,amex,debit,consumer,ICICI Bank,IN
+522329,mastercard,debit,commercial,CIBC,CA
+444462,visa,credit,consumer,Kotak Mahindra Bank,IN
+469413,visa,debit,consumer,RBC,CA
+827661,rupay,credit,consumer,HDFC Bank,IN
+532714,mastercard,credit,consumer,ADCB,AE
+475531,visa,credit,consumer,AIB,IE
+601435,rupay,debit,consumer,ICICI Bank,IN
+442633,visa,debit,consumer,Axis Bank,IN
+460136,visa,debit,consumer,Yes Bank,IN
+520603,mastercard,credit,consumer,Commerzbank,DE
+448248,visa,debit,consumer,NAB,AU
+559631,mastercard,credit,consumer,JPMorgan Chase,US
+453749,visa,debit,consumer,Monzo,GB
+407764,visa,debit,consumer,Deutsche Bank,DE
+485746,visa,credit,consumer,DKB,DE
+537448,mastercard,debit,consumer,bunq,NL
+422411,visa,debit,consumer,Lloyds Bank,GB
+552168,mastercard,debit,consumer,Credit Agricole,FR
+515609,mastercard,prepaid,commercial,Emirates NBD,AE
+516015,mastercard,credit,consumer,Wells Fargo,US
+655415,rupay,debit,consumer,IDFC First Bank,IN
+606064,rupay,debit,consumer,State Bank of India,IN
+513575,mastercard,credit,consumer,N26,DE
+431241,visa,credit,consumer,Bank of America,US
+437257,visa,debit,consumer,DBS,SG
+558393,mastercard,credit,commercial,Permanent TSB,IE
+378572,amex,debit,consumer,Monzo,GB
+476779,visa,debit,consumer,Mediolanum,IT
+531790,mastercard,credit,consumer,JPMorgan Chase,US
+483305,visa,debit,consumer,NAB,AU
+401313,visa,credit,consumer,ICICI Bank,IN
+548257,mastercard,debit,commercial,Revolut,IE
+421753,visa,debit,consumer,UOB,SG
+552325,mastercard,credit,consumer,UniCredit,IT
+510543,mastercard,debit,consumer,Commonwealth Bank,AU
+475182,visa,credit,consumer,JPMorgan Chase,US
+498066,visa,debit,consumer,Commonwealth Bank,AU
+556101,mastercard,credit,consumer,Sparkasse,DE
+487502,visa,debit,consumer,Revolut,IE
+603515,rupay,debit,consumer,ICICI Bank,IN
+401491,visa,debit,consumer,Yes Bank,IN
+374088,amex,debit,consumer,Sparkasse,DE
+426747,visa,debit,consumer,Axis Bank,IN
+418974,visa,debit,consumer,CaixaBank,ES
+464642,visa,debit,commercial,NAB,AU
+486820,visa,debit,commercial,DBS,SG
+822805,rupay,credit,commercial,Axis Bank,IN
+430278,visa,debit,consumer,Standard Chartered SG,SG
+434412,visa,credit,consumer,State Bank of India,IN
+464732,visa,credit,consumer,Santander UK,GB
+442932,visa,credit,consumer,NAB,AU
+495437,visa,debit,consumer,IDFC First Bank,IN
+828801,rupay,debit,consumer,State Bank of India,IN
+477267,visa,credit,consumer,Axis Bank,IN
+535975,mastercard,credit,commercial,HSBC UK,GB
+418918,visa,debit,consumer,Commonwealth Bank,AU
+518241,mastercard,credit,consumer,IDFC First Bank,IN
+604406,rupay,debit,consumer,HDFC Bank,IN
+486606,visa,debit,consumer,Sparkasse,DE
+349182,amex,debit,consumer,Capital One,US
+533296,mastercard,credit,consumer,La Banque Postale,FR
+527089,mastercard,debit,consumer,DBS,SG
+443083,visa,credit,consumer,CaixaBank,ES
+553209,mastercard,debit,consumer,RBC,CA
+403004,visa,credit,consumer,HSBC UK,GB
+340350,amex,debit,consumer,Macquarie,AU
+816291,rupay,credit,consumer,HDFC Bank,IN
+654173,rupay,credit,consumer,ICICI Bank,IN
+476136,visa,debit,consumer,Rabobank,NL
+517513,mastercard,credit,consumer,Yes Bank,IN
+474538,visa,debit,consumer,RBC,CA
+452580,visa,debit,consumer,ABN AMRO,NL
+521920,mastercard,debit,consumer,First Abu Dhabi Bank,AE
+415293,visa,debit,consumer,Citibank,US
+457973,visa,credit,consumer,HSBC UK,GB
+549037,mastercard,debit,consumer,CaixaBank,ES
+411159,visa,credit,consumer,Capital One,US
+548931,mastercard,credit,commercial,ING Germany,DE
+432260,visa,credit,consumer,ING,NL
+400461,visa,debit,consumer,Mashreq,AE
+464097,visa,debit,consumer,BBVA,ES
+442240,visa,credit,consumer,State Bank of India,IN
+465197,visa,debit,commercial,NatWest,GB
+422240,visa,debit,consumer,Commerzbank,DE
+524239,mastercard,debit,consumer,Kotak Mahindra Bank,IN
+421364,visa,debit,consumer,JPMorgan Chase,US
+344045,amex,prepaid,consumer,US Bancorp,US
+544792,mastercard,debit,commercial,Yes Bank,IN
+527466,mastercard,credit,consumer,NatWest,GB
+544213,mastercard,debit,consumer,Axis Bank,IN
+441597,visa,debit,consumer,Sparkasse,DE
+496942,visa,credit,consumer,ICICI Bank,IN
+371411,amex,debit,consumer,BNP Paribas,FR
+347711,amex,prepaid,consumer,IDFC First Bank,IN
+430989,visa,credit,consumer,CIBC,CA
+820677,rupay,debit,commercial,Kotak Mahindra Bank,IN
+433261,visa,debit,commercial,Monzo,GB
+450729,visa,debit,consumer,Citibank,US
+436182,visa,debit,consumer,Bank of America,US
+528123,mastercard,credit,commercial,NatWest,GB
+449417,visa,debit,consumer,NAB,AU
+424784,visa,credit,consumer,Citibank SG,SG
+499167,visa,credit,consumer,Capital One,US
+653995,rupay,debit,commercial,IDFC First Bank,IN
+414116,visa,debit,consumer,La Banque Postale,FR
+494188,visa,debit,consumer,DKB,DE
+471791,visa,debit,consumer,Kotak Mahindra Bank,IN
+512854,mastercard,debit,consumer,Santander,ES
+533967,mastercard,credit,consumer,HSBC UK,GB
+471294,visa,debit,consumer,SNS Bank,NL
+517124,mastercard,debit,consumer,JPMorgan Chase,US
+445905,visa,credit,consumer,JPMorgan Chase,US
+553063,mastercard,debit,consumer,Kotak Mahindra Bank,IN
+405631,visa,debit,consumer,Santander,ES
+816050,rupay,debit,consumer,State Bank of India,IN
+517456,mastercard,debit,consumer,UniCredit,IT
+549065,mastercard,debit,consumer,Poste Italiane,IT
+406550,visa,debit,consumer,Sabadell,ES
+827072,rupay,credit,consumer,IDFC First Bank,IN
+535825,mastercard,prepaid,consumer,Discover Bank,US
+484349,visa,debit,commercial,NatWest,GB
+488382,visa,debit,consumer,Commerzbank,DE
+525121,mastercard,credit,consumer,Standard Chartered SG,SG
+517961,mastercard,credit,consumer,Capital One,US
+477367,visa,debit,consumer,Scotiabank,CA
+813730,rupay,credit,commercial,ICICI Bank,IN
+374476,amex,credit,commercial,Wells Fargo,US
+435422,visa,debit,consumer,Kotak Mahindra Bank,IN
+426382,visa,debit,consumer,CaixaBank,ES
+557159,mastercard,debit,consumer,ICICI Bank,IN
+515195,mastercard,debit,consumer,Capital One,US
+515652,mastercard,debit,consumer,UniCredit,IT
+378460,amex,debit,consumer,N26,DE
+475393,visa,debit,consumer,IDFC First Bank,IN
+439229,visa,debit,consumer,ICICI Bank,IN
+536901,mastercard,debit,consumer,Barclays,GB
+475876,visa,prepaid,consumer,Citibank,US
+379166,amex,debit,consumer,Yes Bank,IN
+519796,mastercard,debit,commercial,Bank of Ireland,IE
+370117,amex,credit,consumer,JPMorgan Chase,US
+346765,amex,debit,consumer,N26,DE
+535614,mastercard,credit,consumer,US Bancorp,US
+512084,mastercard,debit,commercial,ICICI Bank,IN
+653918,rupay,debit,consumer,IDFC First Bank,IN
+490951,visa,credit,consumer,Wells Fargo,US
+655064,rupay,debit,consumer,IDFC First Bank,IN
+348222,amex,debit,consumer,Capital One,US
+344450,amex,credit,consumer,Scotiabank,CA
+535519,mastercard,credit,consumer,Macquarie,AU
+541007,mastercard,debit,consumer,Citibank,US
+466215,visa,credit,consumer,Deutsche Bank,DE
+532683,mastercard,debit,consumer,Deutsche Bank,DE
+434277,visa,credit,consumer,Commonwealth Bank,AU
+441602,visa,credit,consumer,Capital One,US
+498380,visa,credit,consumer,Citibank,US
+547401,mastercard,debit,consumer,Discover Bank,US
+521836,mastercard,debit,consumer,Yes Bank,IN
+526938,mastercard,debit,commercial,Bank of America,US
+459236,visa,debit,consumer,CIBC,CA
+520141,mastercard,debit,consumer,DBS,SG
+511773,mastercard,credit,consumer,IDFC First Bank,IN
+552032,mastercard,credit,consumer,Revolut,GB
+542733,mastercard,prepaid,consumer,Capital One,US
+546728,mastercard,credit,consumer,Monzo,GB
+558745,mastercard,debit,consumer,Sparkasse,DE
+408883,visa,debit,consumer,ICICI Bank,IN
+514407,mastercard,credit,consumer,Macquarie,AU
+452485,visa,credit,consumer,Emirates NBD,AE
+349885,amex,prepaid,commercial,Rabobank,NL
+514511,mastercard,debit,consumer,ABN AMRO,NL
+455209,visa,debit,consumer,Revolut,GB
+448784,visa,debit,consumer,JPMorgan Chase,US
+537609,mastercard,debit,consumer,Axis Bank,IN
+401323,visa,debit,consumer,Deutsche Bank,DE
+373314,amex,debit,commercial,Yes Bank,IN
+538540,mastercard,credit,consumer,Macquarie,AU
+422606,visa,debit,consumer,US Bancorp,US
+514033,mastercard,prepaid,consumer,Capital One,US
+436797,visa,debit,consumer,Citibank,US
+340656,amex,debit,consumer,Emirates NBD,AE
+525431,mastercard,credit,consumer,Kotak Mahindra Bank,IN
+606984,rupay,credit,consumer,Yes Bank,IN
+343808,amex,credit,consumer,Kotak Mahindra Bank,IN
+550725,mastercard,debit,consumer,SNS Bank,NL
+554059,mastercard,debit,consumer,First Abu Dhabi Bank,AE
+553570,mastercard,debit,consumer,US Bancorp,US
+531268,mastercard,debit,consumer,BMO,CA
+436721,visa,credit,consumer,Wells Fargo,US
+432696,visa,debit,consumer,Bank of Ireland,IE
+451268,visa,debit,consumer,HDFC Bank,IN
+430561,visa,debit,consumer,Santander UK,GB
+456200,visa,credit,consumer,ABN AMRO,NL
+466603,visa,debit,consumer,ING Germany,DE
+453087,visa,debit,commercial,US Bancorp,US
+413408,visa,debit,consumer,Macquarie,AU
+427126,visa,debit,consumer,ADCB,AE
+531440,mastercard,debit,commercial,Monzo,GB
+551965,mastercard,debit,consumer,Bank of Ireland,IE
+523007,mastercard,debit,consumer,UniCredit,IT
+441509,visa,debit,consumer,Capital One,US
+411552,visa,debit,commercial,RBC,CA
+450373,visa,debit,commercial,Bank of America,US
+436227,visa,credit,consumer,UniCredit,IT
+811239,rupay,credit,consumer,ICICI Bank,IN
+522582,mastercard,debit,consumer,US Bancorp,US
+415750,visa,credit,consumer,Deutsche Bank,DE
+456974,visa,credit,commercial,Santander UK,GB
+457856,visa,debit,consumer,ANZ,AU
+453883,visa,credit,consumer,Emirates NBD,AE
+823433,rupay,debit,consumer,Axis Bank,IN
+442655,visa,credit,consumer,Capital One,US
+476602,visa,prepaid,consumer,US Bancorp,US
+444022,visa,credit,consumer,Revolut,GB
+477376,visa,debit,consumer,Revolut,GB
+533107,mastercard,debit,consumer,Macquarie,AU
+550593,mastercard,debit,consumer,Mediolanum,IT
+517210,mastercard,debit,consumer,Axis Bank,IN
+451196,visa,debit,consumer,Barclays,GB
+471158,visa,credit,consumer,Revolut,IE
+376915,amex,debit,consumer,Santander UK,GB
+442603,visa,debit,consumer,IDFC First Bank,IN
+548586,mastercard,credit,consumer,Citibank,US
+463413,visa,debit,consumer,Citibank,US
+413340,visa,debit,consumer,Yes Bank,IN
+473313,visa,debit,commercial,BBVA,ES
+447050,visa,debit,consumer,JPMorgan Chase,US
+556574,mastercard,debit,consumer,Commerzbank,DE
+483095,visa,debit,consumer,HSBC UK,GB
+558265,mastercard,debit,consumer,Scotiabank,CA
+819593,rupay,debit,consumer,IDFC First Bank,IN
+550243,mastercard,debit,consumer,Kotak Mahindra Bank,IN
+476349,visa,debit,consumer,Discover Bank,US
+436848,visa,debit,consumer,US Bancorp,US
+477497,visa,debit,consumer,Discover Bank,US
+525690,mastercard,debit,commercial,BBVA,ES
+465594,visa,debit,consumer,Citibank,US
+425510,visa,credit,consumer,Yes Bank,IN
+541091,mastercard,debit,consumer,Capital One,US
+541146,mastercard,credit,consumer,Poste Italiane,IT
+418367,visa,credit,commercial,Commonwealth Bank,AU
+449774,visa,debit,consumer,La Banque Postale,FR
+543194,mastercard,debit,consumer,ING Germany,DE
+483484,visa,debit,consumer,BNP Paribas,FR
+344430,amex,debit,consumer,ING,NL
+431232,visa,debit,commercial,JPMorgan Chase,US
+498714,visa,debit,consumer,Sparkasse,DE
+529080,mastercard,debit,consumer,Poste Italiane,IT
+432970,visa,credit,consumer,Citibank,US
+537820,mastercard,debit,consumer,ABN AMRO,NL
+430743,visa,debit,consumer,Barclays,GB
+515501,mastercard,debit,commercial,Monzo,GB
+821145,rupay,credit,consumer,Yes Bank,IN
+487640,visa,debit,consumer,ABN AMRO,NL
+523682,mastercard,credit,consumer,TD Bank,CA
+409332,visa,debit,consumer,HDFC Bank,IN
+491470,visa,debit,commercial,Citibank,US
+510876,mastercard,credit,consumer,ICICI Bank,IN
+531505,mastercard,credit,consumer,IDFC First Bank,IN
+424480,visa,debit,consumer,Emirates NBD,AE
+545020,mastercard,credit,consumer,Lloyds Bank,GB
+558777,mastercard,credit,consumer,US Bancorp,US
+471345,visa,debit,consumer,Citibank,US
+436268,visa,credit,consumer,Mashreq,AE
+433022,visa,debit,consumer,Bank of America,US
+528380,mastercard,debit,commercial,BNP Paribas,FR
+601178,discover,credit,consumer,Citibank,US
+424437,visa,credit,consumer,IDFC First Bank,IN
+342837,amex,debit,consumer,ABN AMRO,NL
+452762,visa,credit,consumer,Yes Bank,IN
+431171,visa,debit,consumer,ABN AMRO,NL
+601174,discover,credit,commercial,Capital One,US
+411824,visa,credit,consumer,Santander,ES
+536478,mastercard,credit,consumer,CaixaBank,ES
+345469,amex,debit,consumer,Societe Generale,FR
+531271,mastercard,debit,consumer,HDFC Bank,IN
+459270,visa,debit,consumer,La Banque Postale,FR
+414987,visa,prepaid,consumer,Mashreq,AE
+530723,mastercard,debit,consumer,Bank of America,US
+348656,amex,debit,consumer,JPMorgan Chase,US
+549032,mastercard,credit,consumer,NAB,AU
+379039,amex,debit,consumer,Yes Bank,IN
+528423,mastercard,debit,consumer,ABN AMRO,NL
+536743,mastercard,debit,consumer,Sabadell,ES
+815817,rupay,credit,consumer,Kotak Mahindra Bank,IN
+434040,visa,credit,consumer,ING Germany,DE
+402278,visa,debit,consumer,DKB,DE
+450464,visa,credit,consumer,Capital One,US
+513168,mastercard,credit,consumer,BMO,CA
+489554,visa,credit,consumer,Axis Bank,IN
+443697,visa,debit,commercial,US Bancorp,US
+495021,visa,debit,consumer,Westpac,AU
+532757,mastercard,credit,consumer,HDFC Bank,IN
+469946,visa,debit,consumer,Commonwealth Bank,AU
+811045,rupay,debit,consumer,ICICI Bank,IN
+467449,visa,debit,consumer,Santander UK,GB
+514725,mastercard,debit,consumer,IDFC First Bank,IN
+554035,mastercard,credit,commercial,Rabobank,NL
+540689,mastercard,debit,consumer,Intesa Sanpaolo,IT
+468372,visa,debit,consumer,Commonwealth Bank,AU
+531937,mastercard,debit,commercial,ADCB,AE
+537725,mastercard,debit,consumer,SNS Bank,NL
+462723,visa,debit,consumer,CaixaBank,ES
+550444,mastercard,debit,consumer,NatWest,GB
+520378,mastercard,prepaid,consumer,Standard Chartered SG,SG
+520292,mastercard,debit,consumer,Revolut,IE
+464897,visa,credit,consumer,CIBC,CA
+537137,mastercard,credit,consumer,JPMorgan Chase,US
+537359,mastercard,credit,consumer,Barclays,GB
+537210,mastercard,debit,commercial,Societe Generale,FR
+436254,visa,debit,commercial,IDFC First Bank,IN
+814383,rupay,debit,commercial,Axis Bank,IN
+545169,mastercard,debit,consumer,Emirates NBD,AE
+553162,mastercard,debit,consumer,US Bancorp,US
+344819,amex,credit,consumer,Yes Bank,IN
+343155,amex,credit,commercial,Wells Fargo,US
+400175,visa,credit,consumer,Discover Bank,US
+418439,visa,credit,consumer,Permanent TSB,IE
+424817,visa,credit,consumer,Citibank SG,SG
+535643,mastercard,debit,consumer,Mashreq,AE
+524027,mastercard,credit,consumer,ING,NL
+474142,visa,debit,consumer,bunq,NL
+601195,discover,debit,consumer,Bank of America,US
+553804,mastercard,debit,consumer,Westpac,AU
+442747,visa,credit,consumer,State Bank of India,IN
+544399,mastercard,debit,commercial,IDFC First Bank,IN
+471811,visa,debit,consumer,Emirates NBD,AE
+434907,visa,credit,consumer,BMO,CA
+349416,amex,credit,consumer,US Bancorp,US
+516192,mastercard,credit,commercial,Rabobank,NL
+546908,mastercard,debit,consumer,Revolut,GB
+528759,mastercard,credit,consumer,Bank of America,US
+433202,visa,credit,consumer,Citibank,US
+656382,rupay,debit,consumer,HDFC Bank,IN
+476137,visa,debit,commercial,Commerzbank,DE
+475280,visa,credit,consumer,Santander UK,GB
+418207,visa,credit,commercial,HSBC UK,GB
+536044,mastercard,credit,consumer,Axis Bank,IN
+559655,mastercard,credit,consumer,Standard Chartered SG,SG
+487855,visa,prepaid,consumer,Revolut,IE
+524406,mastercard,debit,consumer,RBC,CA
+822136,rupay,debit,consumer,HDFC Bank,IN
+375646,amex,debit,consumer,N26,IE
+443662,visa,debit,consumer,NAB,AU
+470142,visa,credit,consumer,Discover Bank,US
+340706,amex,prepaid,consumer,HDFC Bank,IN
+553799,mastercard,debit,consumer,Wells Fargo,US
+440763,visa,debit,commercial,Discover Bank,US
+478795,visa,credit,consumer,Lloyds Bank,GB
+480322,visa,debit,consumer,Wells Fargo,US
+515874,mastercard,debit,commercial,Citibank,US
+493298,visa,credit,consumer,AIB,IE
+425817,visa,debit,consumer,Axis Bank,IN
+437103,visa,credit,consumer,JPMorgan Chase,US
+538476,mastercard,debit,consumer,SNS Bank,NL
+347701,amex,credit,consumer,Yes Bank,IN
+349599,amex,credit,consumer,Citibank,US
+452938,visa,debit,consumer,Yes Bank,IN
+524555,mastercard,debit,consumer,State Bank of India,IN
+426345,visa,credit,consumer,Barclays,GB
+476707,visa,debit,consumer,Kotak Mahindra Bank,IN
+601131,discover,debit,consumer,Bank of America,US
+466359,visa,credit,consumer,ADCB,AE
+513166,mastercard,debit,consumer,OCBC,SG
+481972,visa,credit,consumer,Yes Bank,IN
+402696,visa,credit,consumer,Capital One,US
+524241,mastercard,debit,consumer,Santander UK,GB
+526168,mastercard,debit,consumer,NAB,AU
+483324,visa,credit,consumer,ANZ,AU
+426795,visa,debit,consumer,Axis Bank,IN
+819250,rupay,debit,consumer,ICICI Bank,IN
+491288,visa,credit,consumer,US Bancorp,US
+515781,mastercard,debit,consumer,TD Bank,CA
+478042,visa,debit,commercial,BMO,CA
+440919,visa,credit,consumer,ICICI Bank,IN
+492207,visa,debit,consumer,DKB,DE
+657453,rupay,credit,consumer,Kotak Mahindra Bank,IN
+554667,mastercard,credit,consumer,SNS Bank,NL
+417437,visa,credit,consumer,OCBC,SG
+528831,mastercard,credit,consumer,HSBC UK,GB
+823819,rupay,debit,consumer,Yes Bank,IN
+416299,visa,credit,consumer,Sparkasse,DE
+379684,amex,credit,consumer,Wells Fargo,US
+463570,visa,credit,commercial,Macquarie,AU
+601114,discover,credit,commercial,Citibank,US
+423675,visa,credit,consumer,Scotiabank,CA
+601154,discover,credit,consumer,Citibank,US
+824464,rupay,credit,consumer,ICICI Bank,IN
+495038,visa,credit,consumer,Bank of America,US
+482314,visa,credit,consumer,IDFC First Bank,IN
+377555,amex,credit,consumer,Bank of America,US
+517051,mastercard,debit,consumer,SNS Bank,NL
+429773,visa,credit,consumer,HDFC Bank,IN
+518655,mastercard,debit,consumer,Yes Bank,IN
+425659,visa,credit,consumer,State Bank of India,IN
+539698,mastercard,debit,consumer,Yes Bank,IN
+558341,mastercard,debit,consumer,CIBC,CA
+485182,visa,prepaid,consumer,Citibank SG,SG
+538492,mastercard,debit,consumer,State Bank of India,IN
+458786,visa,credit,consumer,CaixaBank,ES
+403283,visa,debit,consumer,Societe Generale,FR
+512694,mastercard,debit,consumer,Emirates NBD,AE
+532320,mastercard,debit,consumer,Citibank,US
+463794,visa,debit,consumer,JPMorgan Chase,US
+443808,visa,credit,consumer,NatWest,GB
+556716,mastercard,credit,consumer,NAB,AU
+375584,amex,credit,consumer,Societe Generale,FR
+493409,visa,credit,consumer,Monzo,GB
+554785,mastercard,debit,consumer,JPMorgan Chase,US
+521172,mastercard,credit,consumer,Societe Generale,FR
+475617,visa,debit,consumer,ANZ,AU
+493049,visa,debit,commercial,Capital One,US
+550194,mastercard,credit,consumer,Rabobank,NL
+497922,visa,debit,consumer,Bank of America,US
+349685,amex,credit,consumer,Revolut,GB
+412370,visa,debit,consumer,Barclays,GB
+540215,mastercard,debit,consumer,Poste Italiane,IT
+477820,visa,debit,commercial,Emirates NBD,AE
+522711,mastercard,debit,consumer,Monzo,GB
+375800,amex,credit,consumer,Discover Bank,US
+527988,mastercard,debit,consumer,Discover Bank,US
+557298,mastercard,debit,consumer,Kotak Mahindra Bank,IN
+428503,visa,credit,commercial,Citibank,US
+533045,mastercard,debit,consumer,HDFC Bank,IN
+516002,mastercard,credit,consumer,Bank of America,US
+421868,visa,credit,consumer,ICICI Bank,IN
+496789,visa,credit,consumer,JPMorgan Chase,US
+520319,mastercard,debit,consumer,Intesa Sanpaolo,IT
+487533,visa,credit,consumer,Capital One,US
+432128,visa,debit,consumer,Revolut,IE
+529509,mastercard,debit,consumer,CIBC,CA
+517776,mastercard,debit,consumer,Deutsche Bank,DE
+436981,visa,debit,consumer,Axis Bank,IN
+495540,visa,debit,consumer,US Bancorp,US
+470728,visa,debit,consumer,Sparkasse,DE
+478450,visa,debit,consumer,Lloyds Bank,GB
+466203,visa,debit,consumer,ICICI Bank,IN
+402308,visa,credit,consumer,Lloyds Bank,GB
+483702,visa,debit,consumer,N26,DE
+472397,visa,credit,consumer,Discover Bank,US
+423816,visa,credit,consumer,Permanent TSB,IE
+818972,rupay,credit,consumer,Kotak Mahindra Bank,IN
+601188,discover,credit,consumer,Bank of America,US
+455012,visa,credit,consumer,Commonwealth Bank,AU
+538192,mastercard,debit,consumer,JPMorgan Chase,US
+516343,mastercard,debit,consumer,Permanent TSB,IE
+480640,visa,debit,consumer,Discover Bank,US
+556494,mastercard,credit,consumer,Wells Fargo,US
+405592,visa,debit,consumer,OCBC,SG
+412685,visa,debit,consumer,Bank of America,US
+400054,visa,prepaid,consumer,Citibank,US
+418549,visa,debit,consumer,BMO,CA
+516813,mastercard,debit,consumer,Sabadell,ES
+494658,visa,credit,consumer,bunq,NL
+448080,visa,credit,consumer,HDFC Bank,IN
+523641,mastercard,debit,consumer,State Bank of India,IN
+453167,visa,debit,consumer,Permanent TSB,IE
+427784,visa,debit,consumer,Axis Bank,IN
+374139,amex,credit,consumer,Discover Bank,US
+459694,visa,debit,consumer,Banco BPM,IT
+520110,mastercard,debit,consumer,Bank of America,US
+816765,rupay,credit,consumer,State Bank of India,IN
+825691,rupay,debit,consumer,State Bank of India,IN
+542078,mastercard,debit,consumer,HSBC UK,GB
+512565,mastercard,credit,consumer,Permanent TSB,IE
+523302,mastercard,credit,consumer,BMO,CA
+404782,visa,debit,consumer,Axis Bank,IN
+817330,rupay,credit,consumer,State Bank of India,IN
+400860,visa,debit,consumer,Santander UK,GB
+536807,mastercard,debit,consumer,US Bancorp,US
+523363,mastercard,credit,consumer,Barclays,GB
+407198,visa,debit,consumer,Standard Chartered SG,SG
+553196,mastercard,credit,consumer,DKB,DE
+601120,discover,credit,consumer,US Bancorp,US
+491468,visa,debit,consumer,First Abu Dhabi Bank,AE
+343757,amex,debit,consumer,Axis Bank,IN
+523344,mastercard,credit,consumer,DBS,SG
+439951,visa,debit,consumer,Barclays,GB
+454425,visa,prepaid,consumer,NatWest,GB
+460580,visa,credit,consumer,Standard Chartered SG,SG
+536557,mastercard,credit,consumer,Barclays,GB
+522543,mastercard,debit,consumer,Bank of America,US
+370347,amex,credit,consumer,US Bancorp,US
+543322,mastercard,debit,consumer,bunq,NL
+551976,mastercard,debit,consumer,Sparkasse,DE
+375288,amex,credit,consumer,Axis Bank,IN
+464747,visa,debit,consumer,Boursorama,FR
+519731,mastercard,credit,consumer,N26,IE
+492065,visa,debit,consumer,Wells Fargo,US
+823981,rupay,debit,consumer,IDFC First Bank,IN
+482742,visa,debit,commercial,HSBC UK,GB
+552933,mastercard,debit,consumer,Axis Bank,IN
+491929,visa,credit,consumer,IDFC First Bank,IN
+403703,visa,credit,consumer,JPMorgan Chase,US
+557084,mastercard,debit,consumer,ICICI Bank,IN
+452875,visa,debit,consumer,Citibank,US
+513429,mastercard,credit,consumer,SNS Bank,NL
+515227,mastercard,credit,consumer,JPMorgan Chase,US
+437292,visa,credit,consumer,Dubai Islamic Bank,AE
+416152,visa,debit,consumer,DBS,SG
+448547,visa,debit,consumer,N26,DE
+525835,mastercard,debit,consumer,ADCB,AE
+344038,amex,credit,consumer,TD Bank,CA
+548345,mastercard,credit,consumer,Capital One,US
+537405,mastercard,debit,consumer,BBVA,ES
+823949,rupay,debit,consumer,Axis Bank,IN
+348913,amex,credit,consumer,Rabobank,NL
+517116,mastercard,debit,consumer,HSBC UK,GB
+825483,rupay,credit,consumer,Yes Bank,IN
+555017,mastercard,debit,consumer,Citibank,US
+476069,visa,debit,consumer,Emirates NBD,AE
+488834,visa,credit,consumer,US Bancorp,US
+345552,amex,debit,consumer,State Bank of India,IN
+496471,visa,debit,consumer,ICICI Bank,IN
+451288,visa,credit,consumer,Revolut,GB
+517053,mastercard,debit,commercial,ANZ,AU
+419921,visa,debit,consumer,Santander,ES
+511769,mastercard,credit,consumer,Wells Fargo,US
+523222,mastercard,credit,consumer,Kotak Mahindra Bank,IN
+551195,mastercard,debit,consumer,HDFC Bank,IN
+542732,mastercard,debit,consumer,NatWest,GB
+530806,mastercard,debit,consumer,Westpac,AU
+345950,amex,debit,consumer,Boursorama,FR
+463071,visa,credit,consumer,Bank of America,US
+551069,mastercard,credit,consumer,DKB,DE
+442478,visa,debit,consumer,Citibank,US
+526761,mastercard,credit,consumer,N26,DE
+554891,mastercard,credit,consumer,Revolut,GB
+522909,mastercard,credit,consumer,ABN AMRO,NL
+436067,visa,credit,consumer,Lloyds Bank,GB
+460019,visa,debit,consumer,OCBC,SG
+468858,visa,debit,consumer,Discover Bank,US
+428966,visa,credit,consumer,Axis Bank,IN
+435213,visa,credit,consumer,JPMorgan Chase,US
+478124,visa,debit,consumer,Lloyds Bank,GB
+475499,visa,credit,consumer,ING Germany,DE
+545837,mastercard,debit,consumer,DKB,DE
+426564,visa,debit,consumer,BNP Paribas,FR
+410107,visa,credit,consumer,Capital One,US
+539738,mastercard,debit,commercial,Rabobank,NL
+410241,visa,credit,consumer,BNP Paribas,FR
+541337,mastercard,debit,consumer,Bank of America,US
+601134,discover,debit,consumer,Discover Bank,US
+658804,rupay,debit,consumer,State Bank of India,IN
+371239,amex,credit,consumer,Wells Fargo,US
+545467,mastercard,prepaid,consumer,Mediolanum,IT
+549373,mastercard,debit,consumer,Scotiabank,CA
+542551,mastercard,credit,consumer,ING Germany,DE
+558943,mastercard,credit,consumer,Bank of America,US
+454231,visa,debit,consumer,Rabobank,NL
+415478,visa,debit,consumer,BBVA,ES
+601107,discover,credit,consumer,Capital One,US
+442043,visa,credit,consumer,Commonwealth Bank,AU
+441979,visa,debit,consumer,State Bank of India,IN
+472690,visa,credit,consumer,State Bank of India,IN
+494726,visa,debit,consumer,IDFC First Bank,IN
+401415,visa,debit,consumer,State Bank of India,IN
+496896,visa,credit,consumer,TD Bank,CA
+438509,visa,debit,consumer,Citibank,US
+543802,mastercard,credit,consumer,Discover Bank,US
+439070,visa,debit,commercial,Wells Fargo,US
+450534,visa,credit,commercial,JPMorgan Chase,US
+372923,amex,credit,consumer,Wells Fargo,US
+456792,visa,credit,consumer,Axis Bank,IN
+446471,visa,debit,consumer,ING,NL
+655779,rupay,debit,consumer,Kotak Mahindra Bank,IN
+520610,mastercard,credit,consumer,Poste Italiane,IT
+537355,mastercard,debit,consumer,HDFC Bank,IN
+475237,visa,credit,consumer,La Banque Postale,FR
+407273,visa,debit,consumer,NAB,AU
+549009,mastercard,debit,consumer,Kotak Mahindra Bank,IN
+480059,visa,debit,consumer,IDFC First Bank,IN
+373492,amex,debit,consumer,Citibank SG,SG
+517167,mastercard,credit,consumer,HSBC UK,GB
+542622,mastercard,debit,consumer,Bank of Ireland,IE
+541184,mastercard,debit,consumer,Kotak Mahindra Bank,IN
+446169,visa,debit,consumer,Capital One,US
+400741,visa,debit,consumer,NatWest,GB
+493133,visa,credit,consumer,BMO,CA
+457217,visa,debit,commercial,Discover Bank,US
+516806,mastercard,debit,consumer,Mediolanum,IT
+408281,visa,debit,consumer,ABN AMRO,NL
+817435,rupay,credit,consumer,Kotak Mahindra Bank,IN
+450147,visa,debit,consumer,US Bancorp,US
+538184,mastercard,debit,consumer,Wells Fargo,US
+407511,visa,credit,consumer,Revolut,GB
+547204,mastercard,debit,consumer,AIB,IE
+601136,discover,debit,consumer,US Bancorp,US
+481993,visa,credit,consumer,JPMorgan Chase,US
+482318,visa,debit,commercial,ING,NL
+541041,mastercard,debit,consumer,Commerzbank,DE
+515073,mastercard,debit,consumer,HSBC UK,GB
+415567,visa,debit,consumer,Commerzbank,DE
+542516,mastercard,credit,consumer,JPMorgan Chase,US
+437740,visa,debit,consumer,SNS Bank,NL
+487443,visa,debit,commercial,US Bancorp,US
+541707,mastercard,credit,consumer,Wells Fargo,US
+423866,visa,debit,consumer,Kotak Mahindra Bank,IN
+493989,visa,debit,consumer,DKB,DE
+344652,amex,credit,consumer,N26,IE
+373556,amex,credit,consumer,Capital One,US
+448790,visa,debit,consumer,ANZ,AU
+557367,mastercard,debit,consumer,NAB,AU
+533781,mastercard,debit,consumer,Kotak Mahindra Bank,IN
+417841,visa,debit,consumer,ING,NL
+513966,mastercard,debit,consumer,Discover Bank,US
+466952,visa,credit,consumer,Emirates NBD,AE
+521963,mastercard,credit,consumer,JPMorgan Chase,US
+471647,visa,credit,commercial,Discover Bank,US
+405164,visa,debit,consumer,Santander UK,GB
+539308,mastercard,debit,consumer,Capital One,US
+523104,mastercard,debit,consumer,SNS Bank,NL
+520468,mastercard,debit,consumer,Lloyds Bank,GB
+448391,visa,debit,consumer,US Bancorp,US
+416226,visa,debit,consumer,HSBC UK,GB
+431085,visa,debit,consumer,RBC,CA
+465168,visa,credit,consumer,Banco BPM,IT
+446992,visa,debit,consumer,Monzo,GB
+453264,visa,credit,commercial,JPMorgan Chase,US
+602035,rupay,prepaid,consumer,Yes Bank,IN
+373972,amex,credit,consumer,Scotiabank,CA
+527140,mastercard,debit,consumer,Credit Agricole,FR
+413752,visa,credit,consumer,Deutsche Bank,DE
+533553,mastercard,debit,consumer,TD Bank,CA
+815335,rupay,credit,consumer,ICICI Bank,IN
+400253,visa,debit,consumer,bunq,NL
+533623,mastercard,credit,commercial,IDFC First Bank,IN
+549665,mastercard,debit,consumer,HDFC Bank,IN
+540699,mastercard,credit,commercial,Revolut,GB
+519242,mastercard,debit,consumer,JPMorgan Chase,US
+408628,visa,debit,commercial,UOB,SG
+441119,visa,credit,consumer,JPMorgan Chase,US
+458584,visa,debit,consumer,Westpac,AU
+461481,visa,debit,consumer,CaixaBank,ES
+544248,mastercard,debit,consumer,ABN AMRO,NL
+437610,visa,credit,consumer,Citibank SG,SG
+468673,visa,debit,consumer,Citibank,US
+417527,visa,debit,consumer,Bank of America,US
+526257,mastercard,credit,consumer,IDFC First Bank,IN
+370787,amex,credit,consumer,Capital One,US
+488824,visa,debit,consumer,RBC,CA
+476190,visa,credit,consumer,NatWest,GB
+497401,visa,debit,consumer,Bank of America,US
+547953,mastercard,debit,consumer,Yes Bank,IN
+442174,visa,debit,consumer,NatWest,GB
+441229,visa,debit,consumer,Societe Generale,FR
+346010,amex,debit,consumer,Capital One,US
+551552,mastercard,debit,consumer,BBVA,ES
+422152,visa,credit,consumer,N26,IE
+400553,visa,debit,consumer,Banco BPM,IT
+340633,amex,debit,consumer,Wells Fargo,US
+539949,mastercard,debit,consumer,AIB,IE
+532438,mastercard,debit,commercial,Yes Bank,IN
+404733,visa,debit,consumer,Discover Bank,US
+556127,mastercard,credit,consumer,Boursorama,FR
+432049,visa,prepaid,consumer,AIB,IE
+536034,mastercard,credit,consumer,HDFC Bank,IN
+406983,visa,credit,consumer,NAB,AU
+549845,mastercard,credit,consumer,Kotak Mahindra Bank,IN
+519710,mastercard,credit,consumer,Commerzbank,DE
+513285,mastercard,credit,consumer,ADCB,AE
+481971,visa,credit,consumer,N26,DE
+467774,visa,prepaid,consumer,NAB,AU
+535728,mastercard,debit,consumer,Commerzbank,DE
+479842,visa,credit,consumer,Intesa Sanpaolo,IT
+475046,visa,credit,consumer,ABN AMRO,NL
+444786,visa,debit,consumer,ING,NL
+421673,visa,debit,consumer,JPMorgan Chase,US
+411174,visa,debit,consumer,Openbank,ES
+601117,discover,debit,consumer,Capital One,US
+442438,visa,credit,consumer,Mashreq,AE
+499301,visa,credit,consumer,JPMorgan Chase,US
+466983,visa,credit,consumer,Discover Bank,US
+416702,visa,debit,consumer,NAB,AU
+462912,visa,credit,consumer,JPMorgan Chase,US
+558795,mastercard,credit,consumer,Wells Fargo,US
+544328,mastercard,credit,consumer,Societe Generale,FR
+411642,visa,debit,consumer,State Bank of India,IN
+450587,visa,debit,consumer,Kotak Mahindra Bank,IN
+426089,visa,debit,consumer,Revolut,GB
+343496,amex,credit,commercial,Capital One,US
+400799,visa,credit,consumer,Bank of America,US
+498881,visa,credit,consumer,Kotak Mahindra Bank,IN
+376893,amex,debit,consumer,Bank of America,US
+345551,amex,debit,commercial,JPMorgan Chase,US
+475364,visa,debit,consumer,Axis Bank,IN
+458451,visa,credit,consumer,Revolut,IE
+526202,mastercard,debit,consumer,Permanent TSB,IE
+424675,visa,debit,consumer,HDFC Bank,IN
+555534,mastercard,credit,consumer,Capital One,US
+526711,mastercard,debit,consumer,Scotiabank,CA
+478004,visa,credit,consumer,N26,DE
+371615,amex,credit,consumer,Capital One,US
+539825,mastercard,credit,consumer,Monzo,GB
+482538,visa,debit,consumer,IDFC First Bank,IN
+431726,visa,debit,consumer,Commonwealth Bank,AU
+538913,mastercard,credit,consumer,Standard Chartered SG,SG
+410218,visa,debit,consumer,OCBC,SG
+375299,amex,debit,consumer,Wells Fargo,US
+371455,amex,debit,consumer,Citibank,US
+467199,visa,debit,consumer,ICICI Bank,IN
+340208,amex,credit,consumer,US Bancorp,US
+552111,mastercard,credit,consumer,Capital One,US
+441415,visa,credit,consumer,N26,IE
+443338,visa,credit,consumer,Yes Bank,IN
+531463,mastercard,debit,consumer,OCBC,SG
+603429,rupay,credit,consumer,IDFC First Bank,IN
+602011,rupay,credit,consumer,Kotak Mahindra Bank,IN
+417430,visa,debit,consumer,Westpac,AU
+541182,mastercard,credit,consumer,Boursorama,FR
+435229,visa,debit,commercial,Citibank,US
+405588,visa,credit,consumer,Commerzbank,DE
+531127,mastercard,credit,consumer,Discover Bank,US
+550655,mastercard,debit,consumer,Axis Bank,IN
+419023,visa,credit,consumer,Lloyds Bank,GB
+526042,mastercard,debit,consumer,Capital One,US
+442752,visa,debit,consumer,Bank of Ireland,IE
+532852,mastercard,debit,consumer,IDFC First Bank,IN
+489781,visa,debit,consumer,ING,NL
+554678,mastercard,credit,consumer,CaixaBank,ES
+470330,visa,debit,consumer,Yes Bank,IN
+486841,visa,debit,consumer,ICICI Bank,IN
+427869,visa,debit,consumer,Citibank,US
+516727,mastercard,debit,consumer,Banco BPM,IT
+418438,visa,debit,consumer,SNS Bank,NL
+523079,mastercard,debit,consumer,Boursorama,FR
+445243,visa,credit,consumer,US Bancorp,US
+489328,visa,credit,consumer,Bank of America,US
+543321,mastercard,debit,consumer,ING Germany,DE
+531605,mastercard,debit,consumer,State Bank of India,IN
+440337,visa,debit,consumer,BNP Paribas,FR
+489868,visa,credit,commercial,HDFC Bank,IN
+601187,discover,debit,commercial,Bank of America,US
+546930,mastercard,credit,consumer,Lloyds Bank,GB
+486242,visa,debit,consumer,HSBC UK,GB
+452399,visa,debit,consumer,Permanent TSB,IE
+490778,visa,debit,consumer,Bank of America,US
+547592,mastercard,debit,consumer,Standard Chartered SG,SG
+489799,visa,credit,consumer,ANZ,AU
+440417,visa,credit,consumer,RBC,CA
+515346,mastercard,credit,consumer,Bank of Ireland,IE
+471061,visa,debit,consumer,Bank of Ireland,IE
+439407,visa,debit,consumer,Permanent TSB,IE
+373861,amex,debit,consumer,Citibank,US
+405148,visa,debit,consumer,JPMorgan Chase,US
+497145,visa,credit,consumer,DKB,DE
+828686,rupay,debit,consumer,Yes Bank,IN
+511395,mastercard,credit,consumer,Kotak Mahindra Bank,IN
+491268,visa,debit,consumer,Macquarie,AU
+408460,visa,credit,commercial,ICICI Bank,IN
+411737,visa,debit,consumer,HSBC UK,GB
+544444,mastercard,credit,consumer,Revolut,IE
+403811,visa,debit,consumer,HDFC Bank,IN
+460462,visa,debit,commercial,RBC,CA
+605101,rupay,debit,consumer,IDFC First Bank,IN
+436419,visa,credit,consumer,BMO,CA
+516170,mastercard,debit,consumer,Sabadell,ES
+477103,visa,prepaid,consumer,US Bancorp,US
+814034,rupay,credit,consumer,ICICI Bank,IN
+518434,mastercard,debit,consumer,Wells Fargo,US
+550783,mastercard,credit,consumer,Capital One,US
+348965,amex,debit,consumer,Capital One,US
+533622,mastercard,credit,consumer,Emirates NBD,AE
+520107,mastercard,credit,consumer,US Bancorp,US
+533792,mastercard,credit,consumer,Westpac,AU
+466133,visa,debit,commercial,HDFC Bank,IN
+411902,visa,credit,consumer,Mashreq,AE
+515402,mastercard,debit,consumer,JPMorgan Chase,US
+401068,visa,credit,consumer,Capital One,US
+416105,visa,debit,consumer,DKB,DE
+537356,mastercard,credit,consumer,Kotak Mahindra Bank,IN
+526589,mastercard,credit,consumer,Westpac,AU
+454922,visa,debit,commercial,Capital One,US
+549589,mastercard,credit,consumer,N26,DE
+532092,mastercard,debit,consumer,Sparkasse,DE
+428648,visa,credit,commercial,AIB,IE
+550981,mastercard,debit,consumer,Axis Bank,IN
+524057,mastercard,credit,consumer,HDFC Bank,IN
+424760,visa,debit,consumer,IDFC First Bank,IN
+512615,mastercard,prepaid,commercial,Citibank,US
+426284,visa,debit,consumer,State Bank of India,IN
+439198,visa,debit,consumer,OCBC,SG
+401080,visa,debit,consumer,Revolut,GB
+552697,mastercard,credit,consumer,N26,IE
+551815,mastercard,credit,consumer,Bank of America,US
+406180,visa,debit,consumer,Citibank,US
+498433,visa,debit,consumer,Santander UK,GB
+466076,visa,credit,commercial,Capital One,US
+491748,visa,credit,consumer,Citibank,US
+443624,visa,debit,consumer,Revolut,GB
+487718,visa,prepaid,consumer,Monzo,GB
+410143,visa,credit,consumer,Dubai Islamic Bank,AE
+421316,visa,debit,consumer,JPMorgan Chase,US
+444131,visa,credit,consumer,Lloyds Bank,GB
+606292,rupay,debit,consumer,IDFC First Bank,IN
+436377,visa,credit,commercial,Bank of America,US
+450914,visa,debit,consumer,Credit Agricole,FR
+379356,amex,debit,consumer,ICICI Bank,IN
+443361,visa,debit,consumer,Commerzbank,DE
+411422,visa,credit,commercial,Discover Bank,US
+601456,rupay,debit,consumer,ICICI Bank,IN
+454107,visa,debit,consumer,DBS,SG
+444562,visa,debit,consumer,Bank of America,US
+405182,visa,credit,consumer,Mediolanum,IT
+472425,visa,debit,consumer,Citibank,US
+543351,mastercard,credit,consumer,Citibank SG,SG
+411391,visa,credit,consumer,JPMorgan Chase,US
+495894,visa,credit,consumer,Capital One,US
+444087,visa,debit,consumer,Sabadell,ES
+520116,mastercard,debit,consumer,Citibank,US
+474373,visa,credit,consumer,Citibank,US
+452351,visa,credit,consumer,Dubai Islamic Bank,AE
+530552,mastercard,credit,consumer,ING Germany,DE
+511685,mastercard,debit,consumer,ABN AMRO,NL
+401504,visa,credit,consumer,AIB,IE
+490189,visa,credit,consumer,Commonwealth Bank,AU
+421992,visa,credit,consumer,TD Bank,CA
+420039,visa,credit,commercial,ING Germany,DE
+516827,mastercard,prepaid,consumer,Capital One,US
+602697,rupay,debit,consumer,HDFC Bank,IN
+411300,visa,credit,commercial,AIB,IE
+468409,visa,credit,consumer,ANZ,AU
+429626,visa,debit,consumer,Revolut,GB
+559625,mastercard,credit,consumer,Kotak Mahindra Bank,IN
+545784,mastercard,debit,consumer,Wells Fargo,US
+489610,visa,credit,consumer,HSBC UK,GB
+425069,visa,credit,consumer,NAB,AU
+652626,rupay,debit,consumer,ICICI Bank,IN
+414097,visa,prepaid,consumer,Revolut,IE
+539026,mastercard,prepaid,consumer,CaixaBank,ES
+529128,mastercard,debit,commercial,Citibank SG,SG
+600012,rupay,debit,consumer,Axis Bank,IN
+410441,visa,credit,consumer,DBS,SG
+548094,mastercard,credit,consumer,Permanent TSB,IE
+427351,visa,debit,commercial,BBVA,ES
+539605,mastercard,debit,commercial,ICICI Bank,IN
+537559,mastercard,debit,consumer,Barclays,GB
+545211,mastercard,credit,consumer,N26,IE
+492580,visa,debit,consumer,Bank of America,US
+495733,visa,credit,consumer,Citibank,US
+411529,visa,credit,consumer,Commerzbank,DE
+452000,visa,debit,consumer,ING Germany,DE
+471073,visa,debit,consumer,HDFC Bank,IN
+601172,discover,debit,consumer,Citibank,US
+552116,mastercard,credit,consumer,ICICI Bank,IN
+460216,visa,debit,consumer,DBS,SG
+377670,amex,debit,commercial,ADCB,AE
+466738,visa,debit,consumer,Capital One,US
+450695,visa,credit,consumer,Axis Bank,IN
+817828,rupay,debit,consumer,Yes Bank,IN
+515558,mastercard,credit,consumer,NatWest,GB
+523471,mastercard,credit,consumer,BMO,CA
+436061,visa,debit,consumer,Lloyds Bank,GB
+493368,visa,credit,consumer,Axis Bank,IN
+458313,visa,debit,consumer,Kotak Mahindra Bank,IN
+601150,discover,credit,consumer,Wells Fargo,US
+542126,mastercard,debit,consumer,NAB,AU
+482256,visa,credit,consumer,Revolut,IE
+431377,visa,credit,consumer,Deutsche Bank,DE
+532043,mastercard,debit,consumer,Citibank,US
+499636,visa,credit,consumer,Standard Chartered SG,SG
+558208,mastercard,credit,commercial,JPMorgan Chase,US
+491076,visa,credit,consumer,NAB,AU
+469290,visa,debit,consumer,CIBC,CA
+559873,mastercard,credit,consumer,Barclays,GB
+450706,visa,debit,consumer,TD Bank,CA
+513832,mastercard,debit,consumer,Capital One,US
+445105,visa,debit,commercial,SNS Bank,NL
+521418,mastercard,credit,consumer,Yes Bank,IN
+443638,visa,debit,consumer,Monzo,GB
+494868,visa,debit,consumer,HDFC Bank,IN
+421703,visa,debit,consumer,Yes Bank,IN
+515505,mastercard,debit,commercial,Axis Bank,IN
+555958,mastercard,debit,consumer,Capital One,US
+444343,visa,credit,consumer,Sparkasse,DE
+455655,visa,credit,consumer,Barclays,GB
+499473,visa,debit,consumer,Citibank,US
+519946,mastercard,debit,consumer,First Abu Dhabi Bank,AE
+456745,visa,credit,consumer,Standard Chartered SG,SG
+559353,mastercard,debit,consumer,State Bank of India,IN
+370584,amex,credit,consumer,Wells Fargo,US
+535698,mastercard,debit,consumer,Permanent TSB,IE
+520047,mastercard,debit,consumer,Boursorama,FR
+601102,discover,debit,consumer,Discover Bank,US
+559368,mastercard,credit,consumer,BBVA,ES
+659526,rupay,debit,consumer,IDFC First Bank,IN
+374460,amex,credit,consumer,Bank of America,US
+520248,mastercard,debit,consumer,BNP Paribas,FR
+479399,visa,credit,consumer,Permanent TSB,IE
+529734,mastercard,credit,commercial,Commonwealth Bank,AU
+607300,rupay,debit,consumer,Axis Bank,IN
+542740,mastercard,debit,consumer,ICICI Bank,IN
+526922,mastercard,credit,consumer,HDFC Bank,IN
+829361,rupay,credit,consumer,IDFC First Bank,IN
+817549,rupay,credit,consumer,State Bank of India,IN
+477022,visa,credit,consumer,Santander UK,GB
+525975,mastercard,debit,consumer,Monzo,GB
+422847,visa,credit,consumer,ABN AMRO,NL
+348331,amex,debit,consumer,Wells Fargo,US
+828320,rupay,credit,commercial,IDFC First Bank,IN
+473384,visa,debit,consumer,SNS Bank,NL
+555332,mastercard,debit,consumer,HDFC Bank,IN
+437535,visa,debit,consumer,Scotiabank,CA
+346574,amex,credit,consumer,Yes Bank,IN
+474039,visa,debit,consumer,Commerzbank,DE
+454216,visa,debit,consumer,TD Bank,CA
+540003,mastercard,debit,consumer,Sparkasse,DE
+439965,visa,debit,consumer,AIB,IE
+549559,mastercard,debit,consumer,ING,NL
+818132,rupay,prepaid,consumer,Yes Bank,IN
+489245,visa,credit,consumer,ABN AMRO,NL
+458508,visa,debit,consumer,BMO,CA
+424353,visa,debit,commercial,ADCB,AE
+439423,visa,debit,commercial,Revolut,GB
+347644,amex,credit,commercial,Capital One,US
+435019,visa,credit,consumer,Sabadell,ES
+513297,mastercard,credit,consumer,N26,DE
+429909,visa,debit,consumer,Citibank,US
+657991,rupay,credit,consumer,Axis Bank,IN
+821639,rupay,credit,consumer,Axis Bank,IN
+428128,visa,credit,consumer,Santander UK,GB
+485788,visa,debit,consumer,Axis Bank,IN
+535831,mastercard,credit,consumer,IDFC First Bank,IN
+487983,visa,debit,consumer,HDFC Bank,IN
+539275,mastercard,credit,consumer,DBS,SG
+815699,rupay,debit,consumer,IDFC First Bank,IN
+827191,rupay,debit,consumer,HDFC Bank,IN
+550926,mastercard,debit,consumer,Lloyds Bank,GB
+377903,amex,credit,consumer,Citibank,US
+514697,mastercard,credit,consumer,Emirates NBD,AE
+559623,mastercard,debit,consumer,Standard Chartered SG,SG
+459653,visa,debit,consumer,Capital One,US
+458926,visa,debit,consumer,Lloyds Bank,GB
+520041,mastercard,debit,consumer,US Bancorp,US
+609798,rupay,debit,consumer,HDFC Bank,IN
+495264,visa,credit,consumer,Bank of America,US
+558283,mastercard,credit,consumer,Kotak Mahindra Bank,IN
+818192,rupay,credit,consumer,State Bank of India,IN
+556649,mastercard,debit,consumer,Sparkasse,DE
+825914,rupay,credit,consumer,Axis Bank,IN
+448443,visa,debit,consumer,Kotak Mahindra Bank,IN
+441137,visa,credit,consumer,Barclays,GB
+346523,amex,credit,consumer,Revolut,GB
+484936,visa,prepaid,consumer,HDFC Bank,IN
+829402,rupay,debit,consumer,Kotak Mahindra Bank,IN
+515967,mastercard,debit,consumer,IDFC First Bank,IN
+413317,visa,credit,consumer,Discover Bank,US
+480608,visa,credit,consumer,Commonwealth Bank,AU
+493941,visa,credit,consumer,Standard Chartered SG,SG
+443936,visa,debit,consumer,JPMorgan Chase,US
+601155,discover,credit,consumer,JPMorgan Chase,US
+555911,mastercard,debit,consumer,Boursorama,FR
+413542,visa,credit,consumer,AIB,IE
+826986,rupay,credit,consumer,Yes Bank,IN
+495482,visa,debit,consumer,HDFC Bank,IN
+498477,visa,credit,consumer,Discover Bank,US
+514493,mastercard,debit,consumer,N26,DE
+545867,mastercard,debit,consumer,Kotak Mahindra Bank,IN
+464721,visa,debit,consumer,US Bancorp,US
+552873,mastercard,credit,consumer,Capital One,US
+521000,mastercard,debit,consumer,Discover Bank,US
+512764,mastercard,credit,consumer,HSBC UK,GB
+552992,mastercard,debit,consumer,bunq,NL
+412693,visa,debit,consumer,NatWest,GB
+829781,rupay,debit,consumer,IDFC First Bank,IN
+659611,rupay,debit,consumer,ICICI Bank,IN
+466626,visa,credit,consumer,NAB,AU
+545547,mastercard,debit,consumer,Santander UK,GB
+423386,visa,debit,consumer,IDFC First Bank,IN
+469641,visa,credit,consumer,Capital One,US
+529051,mastercard,debit,consumer,Commonwealth Bank,AU
+534880,mastercard,debit,consumer,Sabadell,ES
+547225,mastercard,credit,consumer,Scotiabank,CA
+517097,mastercard,debit,consumer,Permanent TSB,IE
+374629,amex,debit,consumer,Wells Fargo,US
+345904,amex,debit,consumer,Bank of America,US
+544066,mastercard,credit,commercial,State Bank of India,IN
+376695,amex,credit,consumer,Rabobank,NL
+463683,visa,debit,consumer,N26,DE
+605669,rupay,credit,consumer,State Bank of India,IN
+422075,visa,debit,consumer,CIBC,CA
+555959,mastercard,debit,consumer,US Bancorp,US
+377810,amex,debit,consumer,Yes Bank,IN
+454082,visa,debit,consumer,JPMorgan Chase,US
+536670,mastercard,credit,consumer,Scotiabank,CA
+416969,visa,debit,consumer,UOB,SG
+472102,visa,credit,commercial,Barclays,GB
+491214,visa,debit,consumer,First Abu Dhabi Bank,AE
+469287,visa,debit,consumer,TD Bank,CA
+534337,mastercard,credit,consumer,Westpac,AU
+464967,visa,credit,commercial,Westpac,AU
+518265,mastercard,debit,consumer,Discover Bank,US
+541998,mastercard,debit,consumer,Sabadell,ES
+427970,visa,credit,consumer,N26,DE
+433033,visa,credit,consumer,Societe Generale,FR
+448509,visa,debit,consumer,IDFC First Bank,IN
+498517,visa,credit,consumer,Boursorama,FR
+426891,visa,credit,consumer,Dubai Islamic Bank,AE
+544886,mastercard,debit,consumer,Wells Fargo,US
+542902,mastercard,debit,consumer,First Abu Dhabi Bank,AE
+556184,mastercard,credit,consumer,Discover Bank,US
+409323,visa,prepaid,consumer,Axis Bank,IN
+541510,mastercard,credit,consumer,ICICI Bank,IN
+510214,mastercard,debit,consumer,UniCredit,IT
+453085,visa,credit,consumer,ING Germany,DE
+537433,mastercard,credit,consumer,Discover Bank,US
+518494,mastercard,credit,consumer,AIB,IE
+427216,visa,credit,consumer,US Bancorp,US
+416550,visa,prepaid,consumer,Barclays,GB
+443456,visa,debit,consumer,BMO,CA
+541167,mastercard,credit,consumer,ING,NL
+543588,mastercard,debit,consumer,BBVA,ES
+547854,mastercard,debit,commercial,Deutsche Bank,DE
+472917,visa,credit,consumer,ADCB,AE
+485735,visa,credit,consumer,US Bancorp,US
+525698,mastercard,credit,consumer,US Bancorp,US
+558611,mastercard,credit,consumer,ICICI Bank,IN
+538029,mastercard,credit,consumer,ING Germany,DE
+485153,visa,debit,consumer,Bank of Ireland,IE
+554717,mastercard,debit,consumer,Credit Agricole,FR
+512789,mastercard,debit,consumer,JPMorgan Chase,US
+480858,visa,credit,consumer,Kotak Mahindra Bank,IN
+514480,mastercard,debit,consumer,N26,IE
+517589,mastercard,credit,consumer,Dubai Islamic Bank,AE
+531189,mastercard,debit,consumer,Capital One,US
+510663,mastercard,debit,consumer,Yes Bank,IN
+430894,visa,credit,consumer,Bank of America,US
+444571,visa,debit,consumer,Discover Bank,US
+445533,visa,debit,consumer,Discover Bank,US
+510340,mastercard,credit,consumer,Discover Bank,US
+512485,mastercard,credit,consumer,Bank of Ireland,IE
+410304,visa,credit,consumer,Citibank,US
+511729,mastercard,debit,consumer,Wells Fargo,US
+407868,visa,debit,consumer,ICICI Bank,IN
+512726,mastercard,credit,consumer,UOB,SG
+551517,mastercard,debit,consumer,JPMorgan Chase,US
+422755,visa,credit,consumer,Discover Bank,US
+516296,mastercard,debit,consumer,Axis Bank,IN
+527501,mastercard,debit,consumer,AIB,IE
+528485,mastercard,debit,commercial,Scotiabank,CA
+438843,visa,debit,consumer,IDFC First Bank,IN
+436689,visa,debit,consumer,State Bank of India,IN
+476763,visa,debit,consumer,HDFC Bank,IN
+534163,mastercard,debit,consumer,Permanent TSB,IE
+412486,visa,credit,consumer,UOB,SG
+512010,mastercard,debit,consumer,Capital One,US
+374421,amex,debit,consumer,Bank of America,US
+450058,visa,credit,consumer,Santander,ES
+419067,visa,debit,consumer,Santander,ES
+444380,visa,debit,consumer,Wells Fargo,US
+603970,rupay,debit,consumer,State Bank of India,IN
+462024,visa,credit,consumer,JPMorgan Chase,US
+347971,amex,debit,consumer,UniCredit,IT
+347548,amex,credit,consumer,SNS Bank,NL
+545284,mastercard,debit,consumer,bunq,NL
+546887,mastercard,credit,consumer,Macquarie,AU
+408690,visa,debit,consumer,Bank of America,US
+408159,visa,credit,consumer,JPMorgan Chase,US
+821136,rupay,debit,consumer,Yes Bank,IN
+429643,visa,debit,consumer,Scotiabank,CA
+427949,visa,credit,consumer,ING Germany,DE
+373981,amex,debit,consumer,Discover Bank,US
+537326,mastercard,credit,consumer,Axis Bank,IN
+554719,mastercard,credit,consumer,Credit Agricole,FR
+470639,visa,credit,consumer,Openbank,ES
+515051,mastercard,debit,consumer,SNS Bank,NL
+499482,visa,credit,consumer,Yes Bank,IN
+548183,mastercard,credit,consumer,Citibank SG,SG
+459658,visa,debit,consumer,Santander,ES
+558409,mastercard,credit,consumer,ABN AMRO,NL
+556154,mastercard,debit,consumer,bunq,NL
+540735,mastercard,credit,consumer,Scotiabank,CA
+528813,mastercard,debit,consumer,Standard Chartered SG,SG
+416826,visa,debit,consumer,DKB,DE
+601196,discover,credit,consumer,JPMorgan Chase,US
+524750,mastercard,debit,consumer,JPMorgan Chase,US
+468498,visa,debit,consumer,NAB,AU
+345085,amex,credit,consumer,Revolut,IE
+553215,mastercard,debit,consumer,ICICI Bank,IN
+544871,mastercard,debit,consumer,HDFC Bank,IN
+534775,mastercard,debit,consumer,TD Bank,CA
+450734,visa,debit,consumer,BMO,CA
+494311,visa,debit,commercial,First Abu Dhabi Bank,AE
+495029,visa,credit,consumer,Discover Bank,US
+520393,mastercard,credit,consumer,Intesa Sanpaolo,IT
+411713,visa,debit,consumer,ANZ,AU
+414136,visa,credit,consumer,US Bancorp,US
+548088,mastercard,credit,consumer,Axis Bank,IN
+512418,mastercard,debit,consumer,Dubai Islamic Bank,AE
+374098,amex,debit,consumer,IDFC First Bank,IN
+417393,visa,debit,consumer,DKB,DE
+544145,mastercard,debit,consumer,SNS Bank,NL
+522296,mastercard,credit,consumer,Rabobank,NL
+483722,visa,credit,consumer,JPMorgan Chase,US
+468427,visa,debit,consumer,Boursorama,FR
+456695,visa,credit,consumer,State Bank of India,IN
+439137,visa,credit,consumer,NAB,AU
+489029,visa,debit,consumer,ICICI Bank,IN
+546688,mastercard,debit,consumer,Rabobank,NL
+550882,mastercard,credit,consumer,Poste Italiane,IT
+608882,rupay,debit,consumer,ICICI Bank,IN
+512181,mastercard,debit,consumer,Bank of America,US
+494140,visa,debit,consumer,UniCredit,IT
+419347,visa,debit,consumer,ICICI Bank,IN
+542117,mastercard,credit,consumer,Axis Bank,IN
+557928,mastercard,debit,consumer,Monzo,GB
+519744,mastercard,debit,consumer,Citibank SG,SG
+510961,mastercard,debit,consumer,DKB,DE
+413162,visa,prepaid,consumer,Capital One,US
+425308,visa,credit,consumer,Emirates NBD,AE
+525347,mastercard,credit,consumer,Monzo,GB
+537430,mastercard,debit,consumer,Bank of America,US
+469983,visa,debit,consumer,US Bancorp,US
+514846,mastercard,debit,consumer,Bank of America,US
+452652,visa,debit,consumer,Wells Fargo,US
+457561,visa,prepaid,consumer,ABN AMRO,NL
+552472,mastercard,debit,consumer,Yes Bank,IN
+530074,mastercard,credit,consumer,ABN AMRO,NL
+528874,mastercard,debit,consumer,HDFC Bank,IN
+557865,mastercard,credit,consumer,Wells Fargo,US
+658963,rupay,debit,consumer,ICICI Bank,IN
+342358,amex,debit,consumer,Deutsche Bank,DE
+526165,mastercard,credit,consumer,Credit Agricole,FR
+526422,mastercard,debit,consumer,US Bancorp,US
+450832,visa,credit,commercial,IDFC First Bank,IN
+420156,visa,debit,consumer,US Bancorp,US
+481331,visa,debit,commercial,NAB,AU
+544221,mastercard,credit,consumer,US Bancorp,US
+489642,visa,debit,consumer,UniCredit,IT
+510847,mastercard,debit,consumer,JPMorgan Chase,US
+829978,rupay,credit,consumer,HDFC Bank,IN
+434996,visa,debit,consumer,La Banque Postale,FR
+554993,mastercard,debit,consumer,Monzo,GB
+653356,rupay,debit,consumer,ICICI Bank,IN
+416743,visa,credit,consumer,Dubai Islamic Bank,AE
+537720,mastercard,debit,consumer,ICICI Bank,IN
+341121,amex,debit,consumer,Wells Fargo,US
+531535,mastercard,credit,consumer,Discover Bank,US
+483022,visa,debit,consumer,Revolut,GB
+413106,visa,credit,consumer,UniCredit,IT
+822884,rupay,debit,consumer,IDFC First Bank,IN
+544361,mastercard,debit,consumer,OCBC,SG
+498197,visa,prepaid,commercial,Permanent TSB,IE
+469076,visa,debit,commercial,Dubai Islamic Bank,AE
+432515,visa,debit,consumer,ANZ,AU
+476401,visa,credit,consumer,Standard Chartered SG,SG
+463542,visa,credit,commercial,AIB,IE
+498741,visa,credit,consumer,US Bancorp,US
+515345,mastercard,credit,consumer,Lloyds Bank,GB
+534593,mastercard,debit,consumer,bunq,NL
+544586,mastercard,debit,consumer,Citibank,US
+532069,mastercard,debit,consumer,Credit Agricole,FR
+555578,mastercard,credit,consumer,Yes Bank,IN
+456289,visa,debit,consumer,NAB,AU
+545920,mastercard,debit,consumer,ICICI Bank,IN
+444611,visa,debit,consumer,DBS,SG
+465167,visa,debit,consumer,Kotak Mahindra Bank,IN
+516670,mastercard,debit,consumer,Kotak Mahindra Bank,IN
+523262,mastercard,credit,consumer,Macquarie,AU
+519285,mastercard,debit,consumer,Westpac,AU
+451560,visa,debit,consumer,Credit Agricole,FR
+371283,amex,debit,consumer,First Abu Dhabi Bank,AE
+442065,visa,credit,consumer,US Bancorp,US
+545655,mastercard,debit,consumer,ANZ,AU
+552702,mastercard,credit,consumer,JPMorgan Chase,US
+434340,visa,debit,consumer,Deutsche Bank,DE
+413651,visa,credit,consumer,HSBC UK,GB
+829036,rupay,debit,consumer,ICICI Bank,IN
+542915,mastercard,credit,commercial,Commerzbank,DE
+462659,visa,credit,consumer,Openbank,ES
+658625,rupay,debit,consumer,HDFC Bank,IN
+514787,mastercard,debit,consumer,DBS,SG
+442152,visa,credit,commercial,DKB,DE
+436081,visa,credit,consumer,HDFC Bank,IN
+549950,mastercard,credit,consumer,AIB,IE
+608328,rupay,credit,consumer,IDFC First Bank,IN
+515320,mastercard,credit,commercial,HDFC Bank,IN
+449673,visa,credit,consumer,ING,NL
+550840,mastercard,credit,consumer,IDFC First Bank,IN
+827356,rupay,debit,commercial,ICICI Bank,IN
+490156,visa,debit,consumer,La Banque Postale,FR
+475104,visa,credit,consumer,IDFC First Bank,IN
+535061,mastercard,credit,consumer,Commonwealth Bank,AU
+463017,visa,debit,consumer,Intesa Sanpaolo,IT
+535250,mastercard,debit,consumer,Yes Bank,IN
+453924,visa,prepaid,consumer,Barclays,GB
+549509,mastercard,credit,consumer,Kotak Mahindra Bank,IN
+410291,visa,credit,consumer,Permanent TSB,IE
+404621,visa,debit,consumer,Axis Bank,IN
+374370,amex,debit,consumer,Standard Chartered SG,SG
+823864,rupay,debit,consumer,HDFC Bank,IN
+467652,visa,credit,commercial,ABN AMRO,NL
+818004,rupay,credit,consumer,HDFC Bank,IN
+543899,mastercard,credit,consumer,HDFC Bank,IN
+460771,visa,debit,consumer,Monzo,GB
+463465,visa,credit,consumer,Sparkasse,DE
+537037,mastercard,debit,consumer,Dubai Islamic Bank,AE
+411187,visa,credit,consumer,IDFC First Bank,IN
+514205,mastercard,debit,consumer,IDFC First Bank,IN
+409496,visa,debit,consumer,Citibank,US
+379299,amex,debit,consumer,US Bancorp,US
+513281,mastercard,prepaid,commercial,Scotiabank,CA
+534506,mastercard,debit,commercial,OCBC,SG
+480668,visa,credit,consumer,CIBC,CA
+826972,rupay,prepaid,consumer,HDFC Bank,IN
+456364,visa,credit,consumer,Discover Bank,US
+373869,amex,debit,consumer,BBVA,ES
+511410,mastercard,credit,consumer,JPMorgan Chase,US
+478096,visa,debit,consumer,SNS Bank,NL
+523448,mastercard,debit,consumer,Discover Bank,US
+429203,visa,credit,consumer,US Bancorp,US
+430477,visa,credit,consumer,RBC,CA
+518964,mastercard,credit,consumer,Citibank,US
+530892,mastercard,debit,consumer,First Abu Dhabi Bank,AE
+377217,amex,credit,consumer,Citibank,US
+472226,visa,credit,consumer,HDFC Bank,IN
+415016,visa,credit,consumer,Wells Fargo,US
+527162,mastercard,credit,consumer,ICICI Bank,IN
+546696,mastercard,debit,consumer,Lloyds Bank,GB
+520065,mastercard,debit,consumer,State Bank of India,IN
+535063,mastercard,debit,consumer,Permanent TSB,IE
+450922,visa,prepaid,consumer,BMO,CA
+497259,visa,debit,consumer,JPMorgan Chase,US
+431356,visa,credit,consumer,Axis Bank,IN
+601127,discover,debit,consumer,Capital One,US
+469071,visa,debit,commercial,Mediolanum,IT
+478773,visa,debit,consumer,N26,DE
+476270,visa,debit,consumer,Kotak Mahindra Bank,IN
+379739,amex,debit,consumer,DKB,DE
+372976,amex,credit,consumer,HSBC UK,GB
+377312,amex,debit,consumer,Capital One,US
+420009,visa,debit,consumer,Yes Bank,IN
+418694,visa,credit,consumer,Emirates NBD,AE
+823469,rupay,credit,consumer,Kotak Mahindra Bank,IN
+344757,amex,credit,consumer,Kotak Mahindra Bank,IN
+454373,visa,debit,commercial,Axis Bank,IN
+514050,mastercard,debit,consumer,Commerzbank,DE
+449400,visa,credit,consumer,Lloyds Bank,GB
+410736,visa,debit,consumer,Citibank,US
+546016,mastercard,debit,consumer,Capital One,US
+349049,amex,debit,consumer,ING,NL
+433986,visa,debit,consumer,JPMorgan Chase,US
+433271,visa,credit,consumer,UOB,SG
+371597,amex,credit,commercial,Citibank,US
+510989,mastercard,debit,consumer,Axis Bank,IN
+348116,amex,debit,consumer,Dubai Islamic Bank,AE
+487440,visa,debit,consumer,Macquarie,AU
+439708,visa,debit,consumer,Bank of America,US
+343391,amex,debit,commercial,Macquarie,AU
+470162,visa,debit,consumer,Santander UK,GB
+426454,visa,debit,consumer,Capital One,US
+527961,mastercard,credit,consumer,ANZ,AU
+464036,visa,debit,consumer,CaixaBank,ES
+347054,amex,credit,consumer,Bank of America,US
+551602,mastercard,credit,commercial,Permanent TSB,IE
+558090,mastercard,debit,consumer,Wells Fargo,US
+814112,rupay,credit,consumer,IDFC First Bank,IN
+557535,mastercard,debit,consumer,Dubai Islamic Bank,AE
+415563,visa,debit,consumer,DKB,DE
+453376,visa,credit,consumer,DKB,DE
+474057,visa,debit,consumer,DKB,DE
+465572,visa,credit,consumer,N26,DE
+378419,amex,debit,consumer,Wells Fargo,US
+529861,mastercard,debit,consumer,Emirates NBD,AE
+494411,visa,credit,commercial,AIB,IE
+531042,mastercard,credit,consumer,ABN AMRO,NL
+450891,visa,debit,consumer,Santander UK,GB
+445166,visa,debit,consumer,Wells Fargo,US
+826889,rupay,debit,consumer,Axis Bank,IN
+499198,visa,credit,consumer,Capital One,US
+374612,amex,debit,consumer,ICICI Bank,IN
+511039,mastercard,credit,consumer,Rabobank,NL
+437684,visa,credit,consumer,TD Bank,CA
+517262,mastercard,debit,consumer,Wells Fargo,US
+448922,visa,debit,consumer,Capital One,US
+510468,mastercard,debit,consumer,ING,NL
+532987,mastercard,credit,consumer,Kotak Mahindra Bank,IN
+374967,amex,debit,consumer,DBS,SG
+442622,visa,credit,consumer,Bank of America,US
+514621,mastercard,debit,consumer,HDFC Bank,IN
+527787,mastercard,credit,consumer,Yes Bank,IN
+513125,mastercard,debit,consumer,DBS,SG
+433024,visa,credit,consumer,Capital One,US
+499462,visa,debit,consumer,bunq,NL
+542335,mastercard,credit,commercial,Axis Bank,IN
+422493,visa,credit,consumer,IDFC First Bank,IN
+440233,visa,debit,consumer,CIBC,CA
+551851,mastercard,credit,consumer,State Bank of India,IN
+402398,visa,prepaid,consumer,HDFC Bank,IN
+446316,visa,debit,consumer,Revolut,GB
+559900,mastercard,debit,consumer,TD Bank,CA
+533568,mastercard,credit,consumer,Discover Bank,US
+550253,mastercard,debit,consumer,Axis Bank,IN
+471796,visa,debit,commercial,Mashreq,AE
+533664,mastercard,debit,consumer,ABN AMRO,NL
+556487,mastercard,credit,consumer,Macquarie,AU
+430027,visa,debit,consumer,CaixaBank,ES
+551704,mastercard,debit,commercial,SNS Bank,NL
+447912,visa,debit,consumer,Capital One,US
+510101,mastercard,debit,consumer,Citibank,US
+549480,mastercard,debit,consumer,Credit Agricole,FR
+547332,mastercard,credit,consumer,La Banque Postale,FR
+417716,visa,debit,commercial,ADCB,AE
+439752,visa,debit,commercial,DKB,DE
+537407,mastercard,credit,consumer,Capital One,US
+558229,mastercard,debit,commercial,Lloyds Bank,GB
+374344,amex,debit,consumer,Permanent TSB,IE
+533227,mastercard,debit,consumer,JPMorgan Chase,US
+497191,visa,credit,consumer,Banco BPM,IT
+538285,mastercard,debit,consumer,ING Germany,DE
+427751,visa,debit,consumer,Axis Bank,IN
+450658,visa,debit,consumer,Commerzbank,DE
+482591,visa,debit,consumer,Revolut,IE
+406198,visa,debit,consumer,DBS,SG
+426873,visa,debit,consumer,US Bancorp,US
+494839,visa,debit,consumer,Sparkasse,DE
+433452,visa,debit,consumer,HSBC UK,GB
+374072,amex,credit,consumer,DKB,DE
+420350,visa,credit,consumer,State Bank of India,IN
+550589,mastercard,debit,consumer,BMO,CA
+544109,mastercard,credit,consumer,OCBC,SG
+403037,visa,debit,consumer,Sparkasse,DE
+517037,mastercard,prepaid,commercial,Deutsche Bank,DE
+547732,mastercard,credit,consumer,State Bank of India,IN
+459138,visa,debit,consumer,N26,DE
+436186,visa,debit,consumer,Bank of America,US
+492853,visa,debit,consumer,Credit Agricole,FR
+512836,mastercard,debit,consumer,State Bank of India,IN
+542406,mastercard,credit,consumer,Credit Agricole,FR
+517521,mastercard,debit,consumer,US Bancorp,US
+406185,visa,debit,consumer,ING,NL
+552474,mastercard,debit,consumer,Bank of Ireland,IE
+533367,mastercard,credit,consumer,US Bancorp,US
+376728,amex,debit,consumer,Revolut,GB
+515286,mastercard,debit,consumer,Commonwealth Bank,AU
+346516,amex,debit,consumer,Permanent TSB,IE
+547529,mastercard,debit,commercial,Yes Bank,IN
+412918,visa,debit,consumer,Barclays,GB
+481653,visa,debit,consumer,JPMorgan Chase,US
+530245,mastercard,credit,consumer,Revolut,IE
+510178,mastercard,debit,consumer,Permanent TSB,IE
+410973,visa,credit,consumer,IDFC First Bank,IN
+518433,mastercard,debit,consumer,Permanent TSB,IE
+469494,visa,debit,consumer,La Banque Postale,FR
+419216,visa,debit,consumer,BBVA,ES
+522168,mastercard,debit,consumer,Kotak Mahindra Bank,IN
+496891,visa,credit,consumer,Bank of America,US
+466997,visa,debit,commercial,Discover Bank,US
+826638,rupay,credit,consumer,Yes Bank,IN
+512966,mastercard,debit,consumer,Wells Fargo,US
+517646,mastercard,debit,consumer,Axis Bank,IN
+529878,mastercard,debit,consumer,ICICI Bank,IN
+431901,visa,credit,consumer,SNS Bank,NL
+445939,visa,prepaid,consumer,Citibank,US
+539465,mastercard,credit,consumer,Credit Agricole,FR
+810165,rupay,debit,consumer,Axis Bank,IN
+432246,visa,credit,consumer,Deutsche Bank,DE
+538555,mastercard,credit,consumer,Bank of America,US
+447492,visa,debit,consumer,Mediolanum,IT
+515056,mastercard,credit,consumer,Banco BPM,IT
+370539,amex,credit,consumer,JPMorgan Chase,US
+484663,visa,credit,commercial,N26,IE
+373557,amex,debit,consumer,Bank of America,US
+543651,mastercard,debit,consumer,N26,DE
+551463,mastercard,debit,consumer,Axis Bank,IN
+434698,visa,debit,consumer,Capital One,US
+423407,visa,debit,consumer,ICICI Bank,IN
+518302,mastercard,credit,consumer,Scotiabank,CA
+516860,mastercard,credit,consumer,HSBC UK,GB
+482540,visa,debit,consumer,DKB,DE
+554946,mastercard,debit,consumer,Discover Bank,US
+460602,visa,debit,consumer,US Bancorp,US
+468256,visa,debit,consumer,IDFC First Bank,IN
+519323,mastercard,debit,consumer,UOB,SG
+517919,mastercard,credit,consumer,Intesa Sanpaolo,IT
+415892,visa,debit,consumer,ICICI Bank,IN
+536724,mastercard,debit,consumer,CaixaBank,ES
+539402,mastercard,credit,consumer,Wells Fargo,US
+405628,visa,debit,consumer,Axis Bank,IN
+377291,amex,credit,consumer,Monzo,GB
+481506,visa,debit,consumer,IDFC First Bank,IN
+546048,mastercard,credit,consumer,Axis Bank,IN
+344869,amex,credit,consumer,ING,NL
+423889,visa,credit,consumer,Citibank,US
+467427,visa,debit,consumer,Scotiabank,CA
+554875,mastercard,debit,consumer,Rabobank,NL
+431597,visa,debit,commercial,Westpac,AU
+486190,visa,prepaid,consumer,AIB,IE
+372221,amex,credit,consumer,Scotiabank,CA
+459455,visa,debit,consumer,Citibank,US
+440682,visa,credit,consumer,Commerzbank,DE
+554505,mastercard,debit,consumer,HSBC UK,GB
+343197,amex,debit,consumer,RBC,CA
+468189,visa,debit,consumer,HDFC Bank,IN
+489496,visa,credit,consumer,Commerzbank,DE
+463761,visa,debit,consumer,Santander,ES
+495897,visa,credit,consumer,Discover Bank,US
+454719,visa,debit,consumer,BMO,CA
+519761,mastercard,debit,consumer,Bank of America,US
+378813,amex,debit,consumer,HDFC Bank,IN
+451264,visa,credit,consumer,N26,DE
+377479,amex,debit,consumer,JPMorgan Chase,US
+554232,mastercard,credit,consumer,Kotak Mahindra Bank,IN
+407250,visa,prepaid,consumer,Axis Bank,IN
+539778,mastercard,debit,consumer,HDFC Bank,IN
+476938,visa,debit,consumer,Openbank,ES
+445610,visa,debit,commercial,RBC,CA
+471773,visa,credit,consumer,N26,DE
+372608,amex,debit,commercial,IDFC First Bank,IN
+405084,visa,credit,consumer,ING Germany,DE
+535782,mastercard,debit,consumer,ANZ,AU
+446763,visa,credit,consumer,BBVA,ES
+601151,discover,debit,consumer,Discover Bank,US
+810192,rupay,debit,commercial,ICICI Bank,IN
+409260,visa,debit,consumer,RBC,CA
+490151,visa,credit,consumer,Commonwealth Bank,AU
+603227,rupay,credit,consumer,HDFC Bank,IN
+433490,visa,credit,consumer,ANZ,AU
+605670,rupay,credit,consumer,Kotak Mahindra Bank,IN
+487517,visa,credit,consumer,ICICI Bank,IN
+447532,visa,credit,consumer,BBVA,ES
+447989,visa,credit,consumer,Deutsche Bank,DE
+480551,visa,credit,consumer,Wells Fargo,US
+341362,amex,debit,consumer,Scotiabank,CA
+428555,visa,debit,consumer,Westpac,AU
+650265,rupay,credit,consumer,ICICI Bank,IN
+530388,mastercard,credit,consumer,Revolut,IE
+559524,mastercard,debit,consumer,Banco BPM,IT
+524773,mastercard,debit,consumer,Commerzbank,DE
+472440,visa,credit,commercial,Mashreq,AE
+528286,mastercard,debit,consumer,bunq,NL
+415530,visa,credit,consumer,HDFC Bank,IN
+516987,mastercard,debit,consumer,State Bank of India,IN
+408761,visa,debit,commercial,Macquarie,AU
+484044,visa,credit,consumer,First Abu Dhabi Bank,AE
+533211,mastercard,credit,consumer,Kotak Mahindra Bank,IN
+522073,mastercard,debit,consumer,Yes Bank,IN
+496714,visa,debit,commercial,Sabadell,ES
+450104,visa,debit,commercial,IDFC First Bank,IN
+451956,visa,credit,consumer,Kotak Mahindra Bank,IN
+461590,visa,credit,consumer,TD Bank,CA
+343227,amex,debit,consumer,Commonwealth Bank,AU
+464088,visa,debit,consumer,CIBC,CA
+379078,amex,credit,consumer,ING,NL
+348371,amex,credit,consumer,Bank of America,US
+347997,amex,debit,consumer,RBC,CA
+555802,mastercard,credit,consumer,JPMorgan Chase,US
+438503,visa,debit,commercial,US Bancorp,US
+541352,mastercard,credit,consumer,TD Bank,CA
+552164,mastercard,debit,consumer,ABN AMRO,NL
+465352,visa,debit,consumer,RBC,CA
+375269,amex,debit,commercial,IDFC First Bank,IN
+491571,visa,debit,commercial,Emirates NBD,AE
+472342,visa,credit,consumer,Permanent TSB,IE
+467891,visa,debit,consumer,bunq,NL
+424893,visa,credit,consumer,Citibank SG,SG
+493543,visa,credit,consumer,US Bancorp,US
+516048,mastercard,credit,consumer,Societe Generale,FR
+510492,mastercard,credit,consumer,AIB,IE
+497095,visa,debit,consumer,Intesa Sanpaolo,IT
+511274,mastercard,debit,consumer,RBC,CA
+553704,mastercard,credit,commercial,SNS Bank,NL
+525734,mastercard,debit,consumer,ICICI Bank,IN
+492984,visa,debit,consumer,Axis Bank,IN
+490726,visa,credit,consumer,ADCB,AE
+523323,mastercard,debit,consumer,Mashreq,AE
+479605,visa,debit,commercial,First Abu Dhabi Bank,AE
+826509,rupay,debit,consumer,Yes Bank,IN
+601176,discover,debit,consumer,Wells Fargo,US
+413299,visa,credit,consumer,Santander,ES
+546677,mastercard,debit,consumer,Openbank,ES
+539081,mastercard,debit,consumer,Kotak Mahindra Bank,IN
+493295,visa,debit,consumer,Permanent TSB,IE
+812045,rupay,credit,consumer,ICICI Bank,IN
+550284,mastercard,debit,commercial,Barclays,GB
+518626,mastercard,debit,consumer,Bank of America,US
+474245,visa,credit,consumer,HDFC Bank,IN
+465033,visa,debit,consumer,IDFC First Bank,IN
+446468,visa,credit,consumer,Citibank SG,SG
+552376,mastercard,debit,consumer,Santander,ES
+411727,visa,debit,consumer,UOB,SG
+530183,mastercard,credit,consumer,HSBC UK,GB
+461755,visa,debit,consumer,Citibank,US
+438441,visa,debit,consumer,US Bancorp,US
+552670,mastercard,debit,consumer,AIB,IE
+554372,mastercard,credit,consumer,US Bancorp,US
+511155,mastercard,debit,consumer,Sabadell,ES
+458046,visa,credit,consumer,Commonwealth Bank,AU
+340341,amex,debit,commercial,CIBC,CA
+481157,visa,credit,consumer,JPMorgan Chase,US
+511380,mastercard,credit,commercial,Barclays,GB
+416231,visa,credit,consumer,Discover Bank,US
+515117,mastercard,credit,consumer,State Bank of India,IN
+403623,visa,debit,consumer,BNP Paribas,FR
+490210,visa,credit,consumer,Sparkasse,DE
+550764,mastercard,prepaid,consumer,BNP Paribas,FR
+828851,rupay,debit,commercial,ICICI Bank,IN
+554139,mastercard,debit,consumer,ADCB,AE
+370871,amex,debit,consumer,Mashreq,AE
+459700,visa,debit,consumer,NatWest,GB
+514785,mastercard,debit,consumer,RBC,CA
+425251,visa,debit,consumer,Citibank,US
+429425,visa,debit,consumer,Societe Generale,FR
+459287,visa,debit,consumer,Scotiabank,CA
+551519,mastercard,credit,consumer,Macquarie,AU
+530442,mastercard,credit,consumer,ANZ,AU
+483019,visa,debit,consumer,Monzo,GB
+531787,mastercard,debit,consumer,Commonwealth Bank,AU
+376008,amex,debit,consumer,ABN AMRO,NL
+484298,visa,credit,consumer,Axis Bank,IN
+515829,mastercard,debit,consumer,State Bank of India,IN
+463125,visa,credit,consumer,Poste Italiane,IT
+344443,amex,prepaid,consumer,AIB,IE
+449115,visa,credit,consumer,Santander UK,GB
+407615,visa,debit,consumer,CIBC,CA
+537553,mastercard,credit,consumer,ABN AMRO,NL
+412443,visa,credit,consumer,US Bancorp,US
+340460,amex,debit,commercial,Wells Fargo,US
+443136,visa,debit,consumer,Permanent TSB,IE
+544568,mastercard,credit,consumer,BBVA,ES
+423104,visa,debit,consumer,Commerzbank,DE
+519646,mastercard,debit,consumer,HSBC UK,GB
+411884,visa,credit,consumer,BNP Paribas,FR
+465292,visa,credit,consumer,Credit Agricole,FR
